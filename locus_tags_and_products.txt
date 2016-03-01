@@ -1,0 +1,3430 @@
+GSU0000.1	chromosomal replication initiation protein
+GSU0001	DNA polymerase III subunit beta
+GSU0002	DNA replication and repair protein RecF
+GSU0003	DNA gyrase subunit B
+GSU0004	DNA gyrase subunit A
+GSU0005	hypothetical protein
+GSU0006	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+GSU0007	sensor histidine kinase, HAMP and PAS domain-containing
+GSU0008	response receiver sensor histidine kinase, PAS domain-containing
+GSU0009	sensor histidine kinase of FgrL, PAS domain-containing
+GSU0010	flagellar biogenesis master response receiver sensor histidine kinase, PAS and GAF domain-containing
+GSU0011	ABC transporter ATP-binding protein
+GSU0012	protoporphyrinogen oxidase
+GSU0013	MarR family winged helix-turn-helix transcriptional regulator
+GSU0014	DnaJ-like molecular chaperone
+GSU0015	peptidylprolyl cis-trans isomerase, PpiC-type, SurA family
+GSU0016	peptidylprolyl cis-trans isomerase lipoprotein, PpiC-type
+GSU0017	transcription-repair coupling factor
+GSU0018	GntR family transcriptional regulator
+GSU0019	pentapeptide repeat-containing protein
+GSU0020	hypothetical protein
+GSU0021	quinolinate synthetase
+GSU0022	twin arginine translocase protein A
+GSU0023	lipoprotein
+GSU0024	peptidoglycan-binding outer membrane lipoprotein Pal, OmpA family
+GSU0025	biopolymer transport TolB-like protein
+GSU0026	periplasmic energy transduction protein
+GSU0027	biopolymer transport membrane TolR-like protein
+GSU0028	biopolymer transport membrane proton channel TolQ-like protein
+GSU0029	nitrilase/amidohydrolase superfamily protein, class 5
+GSU0030	oxygen-independent coproporphyrinogen III oxidase
+GSU0031	heat-inducible transcription repressor HrcA
+GSU0032	heat shock protein GrpE
+GSU0033	molecular chaperone DnaK
+GSU0034	chaperone protein DnaJ
+GSU0035	2',5' RNA ligase
+GSU0036	poly-gamma-glutamate capsule biosynthesis protein
+GSU0037	seryl-tRNA ligase
+GSU0040	hypothetical protein
+GSU0041	LexA family transcriptional repressor
+GSU0042	hypothetical protein
+GSU0043	DNA polymerase IV
+GSU3472	hypothetical protein
+GSU0044	hypothetical protein
+GSU0045	hypothetical protein
+GSU0046	transposase of ISGsu6, IS21 family
+GSU0047	transposase/IS protein
+GSU0048	integrase
+GSU0049	hypothetical protein
+GSU0050	HIRAN domain-containing protein
+GSU0051	CRISPR-associated helicase Cas3
+GSU0052	CRISPR-associated protein
+GSU0053	CRISPR-associated protein Csb1
+GSU0054	CRISPR-associated protein Csb2
+GSU0055	toxin, RelE family
+GSU0056	antitoxin
+GSU0057	CRISPR-associated exonuclease Cas4 and endodeoxyribonuclease Cas1
+GSU0058	CRISPR-associated endoribonuclease Cas2
+GSU0060	hypothetical protein
+GSU0061	hypothetical protein
+GSU0062	TraD protein
+GSU0063	hypothetical protein
+GSU0064	integrase, bacteriophage P4-type
+GSU0065	tRNA (adenosine-34) deaminase
+GSU3473	hypothetical protein
+GSU0067	carbonic anhydrase
+GSU0068	cytochrome c
+GSU0069	oxidoreductase, iron-sulfur cluster-binding subunit
+GSU0070	oxidoreductase, membrane subunit
+GSU0071	hypothetical protein
+GSU0073	outer membrane protein
+GSU0074	isoprenoid biosynthesis protein
+GSU0075	SDR_a2 family oxidoreductase
+GSU0076	hypothetical protein
+GSU0077	hypothetical protein
+GSU0078	PilZ domain-containing protein
+GSU0079	transcriptional regulator
+GSU0080	periplasmic trypsin-like serine protease lipoprotein DegQ
+GSU0081	hypothetical protein
+GSU0082	23S rRNA synthase
+GSU0083	laccase family multicopper oxidase
+GSU0084	hypothetical protein
+GSU0085	heterodisulfide oxidoreductase, NAD(P)H oxidoreductase subunit F
+GSU3474	hypothetical protein
+GSU0087	heterodisulfide oxidoreductase, iron-sulfur cluster-binding subunit E
+GSU0088	heterodisulfide oxidoreductase, iron-sulfur cluster-binding subunit D
+GSU0089	heterodisulfide oxidoreductase, iron-sulfur cluster-binding subunit G
+GSU0090	heterodisulfide oxidoreductase, FAD-binding and iron-sulfur cluster-binding subunit A
+GSU0091	heterodisulfide oxidoreductase subunit B
+GSU0092	heterodisulfide oxidoreductase, iron-sulfur cluster-binding subunit C
+GSU0093	ABC transporter ATP-binding protein/permease
+GSU0094	DNA polymerase III subunits gamma and tau
+GSU0095	YbaB/EbfC family DNA-binding protein
+GSU0096	recombination protein RecR
+GSU0097	pyruvate:ferredoxin/flavodoxin oxidoreductase
+GSU0098	cell polarity determinant GTPase-activating protein MglB
+GSU0099	cell polarity determinant GTPase MglA
+GSU0101	ABC transporter ATP-binding protein/permease
+GSU0102	selenocysteine-specific translation elongation factor
+GSU0103	sensor histidine kinase
+GSU0104	response regulator
+GSU0105	cytochrome c
+GSU0106	chromosome partitioning ATPase Soj
+GSU0107	ParB-like nuclease domain-containing protein
+GSU0108	ATP synthase F0, B' subunit
+GSU0109	ATP synthase F0 subunit B
+GSU0110	F0F1 ATP synthase subunit delta
+GSU0111	F0F1 ATP synthase subunit alpha
+GSU0112	F0F1 ATP synthase subunit gamma
+GSU0113	F0F1 ATP synthase subunit beta
+GSU0114	F0F1 ATP synthase subunit epsilon
+GSU0115	4-hydroxythreonine-4-phosphate dehydrogenase
+GSU0116	biosynthetic peptidoglycan transglycosylase
+GSU0117	aminotransferase
+GSU0118	hypothetical protein
+GSU0119	glyoxalase/bleomycin resistance protein/dioxygenase superfamily protein
+GSU0120	periplasmically oriented, membrane-bound [NiFe]-hydrogenase maturation protease
+GSU0121	periplasmically oriented, membrane-bound [NiFe]-hydrogenase b-type cytochrome subunit
+GSU0122	periplasmically oriented, membrane-bound [NiFe]-hydrogenase large subunit
+GSU0123	periplasmically oriented, membrane-bound [NiFe]-hydrogenase small subunit
+GSU0124	amidophosphoribosyltransferase
+GSU0125	hypothetical protein
+GSU0126	iron-sulfur cluster-binding oxidoreductase
+GSU0127	tRNA 2-thiocytidine biosynthesis protein TtcA
+GSU0128	primosomal protein N', ATP-dependent helicase
+GSU0129	polypeptide formylmethionine deformylase
+GSU0130	methionyl-tRNA formyltransferase
+GSU0131	hypothetical protein
+GSU0132	protein phosphoaspartate phosphatase CheX associated with MCPs of class 40H
+GSU0133	hypothetical protein
+GSU0134	ribonuclease Z
+GSU0135	delta-aminolevulinic acid dehydratase
+GSU0136	DoxX family protein
+GSU0137	PilZ domain-containing protein
+GSU0138	peptide chain release factor 3
+GSU0139	hypothetical protein
+GSU0140	phosphoribosylaminoimidazole carboxylase-like protein
+GSU0141	hypothetical protein
+GSU0142	phosphatidylglycerophosphatase A
+GSU0143	molybdopterin-binding domain nicotinamide nucleotide amidohydrolase
+GSU0144	sensor histidine kinase, PAS and GAF domain-containing
+GSU0145	recombinase A
+GSU0146	twitching motility pilus retraction protein
+GSU0147	recombination regulator RecX
+GSU0148	alanyl-tRNA ligase
+GSU0149	motility response receiver histidine kinase
+GSU0150	acetylglutamate kinase
+GSU0151	acetylornithine aminotransferase
+GSU0152	ornithine carbamoyltransferase
+GSU0153	argininosuccinate synthase
+GSU0154	NUDIX hydrolase, type 15
+GSU0155	hypothetical protein
+GSU0156	argininosuccinate lyase
+GSU0157	lipoprotein
+GSU0158	diaminopimelate decarboxylase
+GSU0159	dihydrodipicolinate synthase
+GSU0160	dihydrodipicolinate reductase
+GSU0162	L,L-diaminopimelate aminotransferase
+GSU0163	hypothetical protein
+GSU0164	hypothetical protein
+GSU0165	hypothetical protein
+GSU3475	hypothetical protein
+GSU0167	transposase, Y1_Tnp domain-containing
+GSU0168	Fic family protein
+GSU0169	ABC transporter ATP-binding protein
+GSU0170	hypothetical protein
+GSU0171	hypothetical protein
+GSU0172	hypothetical protein
+GSU0173	cupin
+GSU0174	succinyl:acetate coenzyme A transferase
+GSU0175	TetR family transcriptional regulator
+GSU0176	hypothetical protein
+GSU0177	acetyltransferase
+GSU0178	helix-turn-helix transcriptional regulator HxlR
+GSU0179	flavodoxin
+GSU0180	hypothetical protein
+GSU0181	peptidoglycan L,D-transpeptidase lipoprotein, YkuD family, TPR domain-containing
+GSU0182	lipoprotein
+GSU0183	peptidoglycan L,D-transpeptidase lipoprotein, YkuD family, SPOR domain-containing
+GSU0184	HAD superfamily hydrolase
+GSU0185	hypothetical protein
+GSU0187	helix-turn-helix and zinc ribbon transcriptional regulator
+GSU0188	hypothetical protein
+GSU0189	ATP-dependent RNA helicase DbpA
+GSU3477	hypothetical protein
+GSU0191	cold shock DNA/RNA-binding protein
+GSU0192	hypothetical protein
+GSU0193	glucose/sorbosone dehydrogenase-like lipoprotein
+GSU0194	ADP-ribosylglycohydrolase-like protein
+GSU0195	flavin and coenzyme A sequestration protein dodecin
+GSU0196	acyl-CoA thioesterase
+GSU0197	short-chain dehydrogenase
+GSU0198	lipoprotein
+GSU3478	hypothetical protein
+GSU0200	aerobic-type carbon monoxide dehydrogenase, small subunit-like protein
+GSU0201	aerobic-type carbon monoxide dehydrogenase, large subunit-like protein
+GSU0202	dehydrogenase molybdenum cofactor insertion protein
+GSU0203	MobA-related glycosyltransferase
+GSU0204	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0205	TetR family transcriptional regulator
+GSU0206	zinc transporter ZupT
+GSU0207	cold shock DNA/RNA-binding protein
+GSU0208	hypothetical protein
+GSU0209	hypothetical protein
+GSU0210	ABC transporter substrate-binding protein
+GSU0211	ABC transporter membrane protein
+GSU0212	ABC transporter ATP-binding protein
+GSU0213	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0214	ATPase
+GSU0215	5,10-methylenetetrahydrofolate dehydrogenase and methenyltetrahydrofolate cyclohydrolase
+GSU0216	hypothetical protein
+GSU0217	nitroreductase-like family 3 protein
+GSU0218	cytochrome c oxidase, coo3-type, synthesis factor
+GSU0219	cytochrome c oxidase, coo3-type, cytochrome o subunit I
+GSU0220	cytochrome c oxidase, coo3-type, subunit III
+GSU0221	cytochrome c oxidase, coo3-type, subunit IV
+GSU0222	cytochrome c oxidase, coo3-type, cytochrome c subunit II, one heme-binding site
+GSU0223	protoheme IX farnesyltransferase
+GSU0224	cupin
+GSU3479	hypothetical protein
+GSU0226	hypothetical protein
+GSU0227	DNA methyltransferase
+GSU0228	FKBP-type peptidylprolyl cis-trans isomerase
+GSU0229	long-chain-fatty-acid--CoA ligase
+GSU0230	twitching motility pilus retraction protein
+GSU0231	hypothetical protein
+GSU0233	hypothetical protein
+GSU0234	bidirectional formate transporter
+GSU0235	S1 RNA-binding domain-containing transcriptional accessory protein
+GSU0236	hypothetical protein
+GSU0237	dehydratase, NodN/MaoC domain-containing
+GSU0238	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0239	acyl-CoA thioesterase
+GSU0240	malonyl-CoA--acyl carrier protein transacylase
+GSU0241	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0242	acyl carrier protein
+GSU0243	acyltransferase
+GSU0244	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0245	undecaprenyl-phosphate glycosyltransferase
+GSU0246	polysaccharide deacetylase
+GSU0247	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0248	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0249	hypothetical protein
+GSU0250	hypothetical protein
+GSU0251	hypothetical protein
+GSU0252	transposase of ISGsu1, IS4 family
+GSU0253	sensor histidine kinase, PAS, GAF, PAS and PAS domain-containing
+GSU0254	LuxR family transcriptional regulator
+GSU0255	sensor histidine kinase, PAS and PAS domain-containing
+GSU0256	hemerythrin family protein
+GSU0257	antibiotic biosynthesis monooxygenase
+GSU0258	hypothetical protein
+GSU0259	flavoredoxin
+GSU0260	universal stress protein Usp
+GSU0261	monovalent cation/proton antiporter family protein
+GSU0263	hypothetical protein
+GSU0264	Bcr/CflA subfamily transporter
+GSU0265	membrane transport protein
+GSU0266	LysR family transcriptional regulator
+GSU0267	GntR family transcriptional regulator
+GSU0268	hypothetical protein
+GSU0269	hypothetical protein
+GSU0270	glucosamine--fructose-6-phosphate aminotransferase
+GSU0271	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+GSU0272	hypothetical protein
+GSU0273	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0274	c- and b-type cytochrome L
+GSU0275	hypothetical protein
+GSU0276	RND family efflux pump membrane fusion protein
+GSU0277	ABC transporter ATP-binding protein/permease
+GSU0278	RND family efflux pump outer membrane protein
+GSU0279	cadherin domain/calx-beta domain-containing protein
+GSU0280	Fis family transcriptional regulator
+GSU0281	sensor histidine kinase, partial
+GSU0283	sensor histidine kinase
+GSU0284	TraR/DksA family zinc finger transcriptional regulator
+GSU0285	DNA repair protein RadA
+GSU0286	HEAT-like repeat-containing protein
+GSU0287	cyclic diguanylate phosphodiesterase
+GSU0288	HEAT-like repeat-containing protein
+GSU0289	hypothetical protein
+GSU0290	3-oxoacyl-ACP synthase
+GSU0291	CheR-like SAM-binding domain-containing protein
+GSU0292	hypothetical protein
+GSU0293	protein glutamate methylesterase CheB associated with MCPs of classes 40H and 40+24H, response receiver domain-containing
+GSU0294	metal-dependent phosphohydrolase, HDOD domain-containing
+GSU0295	protein glutamate methyltransferase CheR associated with MCPs of classes 40H and 40+24H
+GSU0296	sensor histidine kinase CheA associated with MCPs of classes 40H and 40+24H
+GSU0297	scaffold protein CheW associated with MCPs of classes 40H and 40+24H
+GSU0299	transposase of ISGsu1, IS4 family
+GSU0301	lytic transglycosylase domain-containing protein
+GSU0302	hypothetical protein
+GSU0303	sensor protein
+GSU0304	aminopeptidase N
+GSU0305	hydrogenase nickel incorporation protein HypB
+GSU0306	hydrogenase maturation protein HypF
+GSU0307	hydrogenase assembly chaperone HypC/HupF
+GSU0308	hydrogenase expression/formation protein HypD
+GSU0309	hydrogenase expression/formation protein HypE
+GSU0310	phospholipase, patatin family
+GSU0312	PilZ domain-containing protein
+GSU0313	DnaJ domain-containing protein
+GSU0314	GspIIEN domain-containing protein
+GSU0315	hypothetical protein
+GSU0316	PATAN domain GTPase-activating protein
+GSU0317	hypothetical protein
+GSU0318	M48 family peptidase
+GSU0319	type II secretion system protein GspN
+GSU0320	type II secretion system protein GspM
+GSU0321	type II secretion system protein GspL
+GSU0322	type II secretion system minor pseudopilin GspK
+GSU0323	type II secretion system minor pseudopilin GspJ
+GSU0324	type II secretion system minor pseudopilin GspI
+GSU0325	type II secretion system minor pseudopilin GspH
+GSU0326	type II secretion system major pseudopilin GspG
+GSU0327	type II secretion system inner membrane protein GspF
+GSU0328	type II secretion system ATPase GspE
+GSU0329	type II secretion system lipoprotein GspD
+GSU0330	type II secretion system protein GspC serine protease
+GSU0331	periplasmic trypsin-like serine protease DegP
+GSU0332	multifunctional aminopeptidase A
+GSU0333	ATP synthase F0 subunit C
+GSU0334	ATP synthase F0 subunit A
+GSU0335	ATP synthase-associated magnesium import membrane protein AtpI
+GSU0336	ATP synthase-associated magnesium import membrane protein AtpZ
+GSU0337	glutamate-1-semialdehyde aminotransferase
+GSU0338	NADH dehydrogenase I subunit A
+GSU0339	NADH dehydrogenase I subunit B
+GSU0340	NADH dehydrogenase I subunit C
+GSU0341	NADH dehydrogenase I subunit D
+GSU0342	NADH dehydrogenase I subunit E
+GSU0343	NADH dehydrogenase I subunit F
+GSU0344	NADH dehydrogenase I subunit G
+GSU0345	NADH dehydrogenase I subunit H
+GSU0346	NADH dehydrogenase I subunit I
+GSU0347	NADH dehydrogenase I subunit J
+GSU0348	NADH dehydrogenase I subunit K
+GSU0349	NADH dehydrogenase I subunit L
+GSU0350	NADH dehydrogenase I subunit M
+GSU0351	NADH dehydrogenase I subunit N
+GSU0352	peroxiredoxin, atypical 2-Cys subfamily
+GSU0353	membrane protein YqaA
+GSU0354	hypothetical protein
+GSU0355	hypothetical protein
+GSU0356	sensor histidine kinase response regulator
+GSU0357	cytochrome c nitrite reductase
+GSU0358	periplasmic nitrate reductase, iron-sulfur cluster-binding subunit
+GSU0359	sigma-54-dependent sensor transcriptional regulator, PAS domain-containing
+GSU0360	peptidoglycan-binding outer membrane protein
+GSU0361	PpiC-type peptidylprolyl cis-trans isomerase
+GSU0362	hypothetical protein
+GSU0363	ATP-dependent DNA helicase DinG
+GSU0364	cytochrome c
+GSU0365	cytochrome c
+GSU0366	helix-turn-helix XRE domain-containing protein
+GSU0367	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0368	outer membrane surface lipoprotein
+GSU0369	FlhB domain-containing protein
+GSU0370	FliK domain-containing protein
+GSU0371	alpha-glucan phosphorylase
+GSU0372	sigma-54-dependent transcriptional response regulator
+GSU0373	sensor histidine kinase, HAMP domain-containing
+GSU0374	hydrogenase nickel incorporation protein HypA
+GSU0375	glycine cleavage system T protein
+GSU0376	glycine cleavage system lipoyl carrier protein GcvH
+GSU0377	glycine dehydrogenase subunit 1
+GSU0378	glycine dehydrogenase subunit 2
+GSU0379	lipoate--protein ligase A
+GSU0380	lipoyl synthase
+GSU0381	lipoprotein
+GSU0382	hypothetical protein
+GSU0383	FKBP-type peptidylprolyl cis-trans isomerase
+GSU0384	ferritin-like domain-containing protein
+GSU0385	NAD-dependent nucleoside diphosphate-sugar epimerase/dehydratase
+GSU0386	hypothetical protein
+GSU0387	undecaprenyl pyrophosphate phosphatase
+GSU0388	hypothetical protein
+GSU0389	phosphate/sulfate transporter family membrane protein
+GSU0390	hypothetical protein
+GSU0391	RND family efflux pump outer membrane protein
+GSU0392	RND family efflux pump membrane fusion lipoprotein
+GSU0393	hypothetical protein
+GSU0394	RND family efflux pump inner membrane protein
+GSU0395	redox-active protein, C_GCAxxG_C_C family
+GSU0396	hypothetical protein
+GSU0397	beta-lactamase superfamily metal-dependent hydrolase
+GSU0398	hypothetical protein
+GSU0399	ArsR family transcriptional regulator
+GSU0400	methyl-accepting chemotaxis sensory transducer, class 40H, Cache_2 domain-containing
+GSU0401	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU0402	hemerythrin family protein
+GSU0403	response receiver CheY associated with MCPs of classes 40H and 40+24H
+GSU0404	protein phosphoaspartate phosphatase CheX associated with MCPs of classes 40H and 40+24H
+GSU0405	response regulator
+GSU0406	lipoprotein
+GSU0407	flagellar basal body rod protein FlgB
+GSU0408	flagellar basal body rod protein FlgC
+GSU0409	flagellar hook-basal body complex protein FliE
+GSU0410	flagellar M-ring mounting plate protein FliF
+GSU0411	flagellar motor switch protein FliG
+GSU0412	flagellar assembly protein FliH
+GSU0413	flagellum-specific ATPase FliI
+GSU0414	flagellar export protein FliJ
+GSU0415	hypothetical protein
+GSU0416	flagellar hook-length control protein FliK
+GSU0417	flagellar hook capping protein FlgD
+GSU0418	hypothetical protein
+GSU0419	flagellar hook protein FlgE
+GSU0420	flagellar basal body-associated protein FliL
+GSU0421	flagellar motor switch protein FliM
+GSU0422	flagellar motor switch protein FliN
+GSU3482	flagellar biogenesis protein FliO
+GSU0423	flagellar biosynthesis protein FliP
+GSU0424	flagellar biogenesis protein FliQ
+GSU0425	flagellar biogenesis protein FliR
+GSU0426	flagellar biosynthesis protein FlhB
+GSU0427	SH3 domain lipoprotein
+GSU0428	type VI secretion system outer membrane lipoprotein TssJ
+GSU0429	type VI secretion system protein TssK
+GSU0430	type VI secretion system needle hub protein TssE
+GSU0431	type VI secretion system protein TssF
+GSU0432	type VI secretion system protein TssG
+GSU0433	type VI secretion system ATPase TssH chaperone
+GSU0434	thiamin biosynthesis protein ThiI-related adenine nucleotide alpha hydrolase superfamily protein
+GSU0435	PilB/PulE/GspE family ATPase
+GSU0436	twitching motility pilus retraction protein
+GSU0437	UbiD family decarboxylase
+GSU0438	lipoprotein
+GSU0439	prenyltransferase
+GSU0440	menaquinone biosynthesis decarboxylase
+GSU0441	dehypoxanthinylfutalosine cyclase
+GSU0442	dehypoxanthinylfutalosine cyclase
+GSU0443	ribonuclease D
+GSU0444	hypothetical protein
+GSU0446	16S ribosomal RNA methyltransferase RsmE
+GSU0447	50S ribosomal protein L11 methyltransferase
+GSU0448	zinc-dependent amidohydrolase
+GSU0450	PEP synthetase regulatory protein
+GSU0451	winged-helix transcriptional response regulator
+GSU0452	sensor histidine kinase, HAMP domain-containing
+GSU0453	futalosine hydrolase
+GSU0454	1,4-dihydroxy-6-naphthoate synthase
+GSU0455	rare lipoprotein A-like lipoprotein
+GSU0456	exporter
+GSU0457	outer membrane lipoprotein LolB
+GSU3483	outer membrane lipoprotein carrier/sorting protein LolA
+GSU0458	(3R)-hydroxyacyl-(acyl carrier protein) dehydratase
+GSU0459	3-oxoacyl-(ACP) synthase-like protein
+GSU0460	3-oxoacyl-(acyl carrier protein) synthase II
+GSU0461	3-oxoacyl-ACP reductase
+GSU0462	M48 family peptidase
+GSU0463	hypothetical protein
+GSU0464	S4 domain-containing protein
+GSU0465	elongation factor P
+GSU0466	cytochrome c peroxidase
+GSU0467	hypothetical protein
+GSU0468	hypothetical protein
+GSU0469	hypothetical protein
+GSU0470	sigma-54-dependent transcriptional response regulator
+GSU0471	sensor histidine kinase
+GSU0472	SRPBCC domain-containing protein
+GSU0473	transcriptional regulator
+GSU0474	sensor diguanylate cyclase/phosphodiesterase, PAS and PAS domain-containing
+GSU0475	sensor histidine kinase, PAS domain-containing
+GSU0476	hypothetical protein
+GSU0477	HAD superfamily hydrolase
+GSU0478	ferritin-like domain-containing protein
+GSU0479	aspartate ammonia-lyase
+GSU0480	thioredoxin/NifU-like domain-containing protein
+GSU0481	hypothetical protein
+GSU0482	cardiolipin synthase
+GSU0483	7-cyano-7-deazaguanine synthase
+GSU0484	GTP cyclohydrolase
+GSU0485	hypothetical protein
+GSU0486	threonine dehydratase
+GSU0487	cobalt/zinc/iron/cadmium/nickel efflux protein
+GSU0488	thioredoxin reductase
+GSU0489	competence ATPase ComM
+GSU0490	succinyl:acetate coenzyme A transferase
+GSU0491	ATP-dependent RNA helicase RhlE
+GSU0492	site-specific recombinase XerC
+GSU0493	FAD-dependent pyridine nucleotide-disulfide oxidoreductase family protein
+GSU0494	hypothetical protein
+GSU0496	RND family efflux pump membrane fusion protein
+GSU3484	ABC transporter ATP-binding protein
+GSU3485	ABC transporter membrane protein
+GSU0498	hypothetical protein
+GSU0499	zinc metalloendopeptidase
+GSU0500	translation-regulating membrane GTPase TypA
+GSU0501	outer membrane protein assembly lipoprotein YfiO
+GSU0502	lipoprotein
+GSU0503	camphor resistance protein CrcB
+GSU0504	hypothetical protein
+GSU0505	hypothetical protein
+GSU0506	hypothetical protein
+GSU0507	hypothetical protein
+GSU0508	hypothetical protein
+GSU0509	NADPH oxidoreductase subunit alpha
+GSU0510	NADPH oxidoreductase subunit beta
+GSU0511	leucyl aminopeptidase-like protein
+GSU0512	hypothetical protein
+GSU0513	dephospho-coenzyme A kinase
+GSU0514	IclR family transcriptional regulator
+GSU0515	universal stress protein Usp
+GSU0516	TIM alpha/beta-barrel protein
+GSU0517	nucleotidyltransferase
+GSU0518	sodium/solute symporter family protein
+GSU0519	hypothetical protein
+GSU0520	tRNA pseudouridine 13 synthase
+GSU0521	tRNA (N7-methyl-G46)-methyltransferase
+GSU0522	ATP-dependent RNA helicase RhlB
+GSU0523	pyridoxal-5'-phosphate-dependent chorismate-binding enzyme
+GSU0524	hypothetical protein
+GSU0525	D-tyrosyl-tRNA(Tyr) deacylase
+GSU0526	O-acetyl-ADP-ribose deacetylase
+GSU0527	TrkA domain-containing protein
+GSU0528	ferredoxin and NADH nitroreductase domain-containing protein
+GSU0529	endodeoxyribonuclease IV
+GSU0530	histidine triad (HIT) family hydrolase
+GSU0531	diaminopimelate epimerase
+GSU3486	hypothetical protein
+GSU0533	cytochrome c
+GSU0534	helix-turn-helix iron-sulfur cluster-binding transcriptional regulator IscR
+GSU0535	cysteine synthase A
+GSU0536	adenosine nucleotide alpha-hydrolase superfamily protein
+GSU0537	sensor diguanylate cyclase/phosphodiesterase, PAS domain-containing
+GSU0538	ATP-independent chaperone
+GSU0539	hypothetical protein
+GSU0540	hypothetical protein
+GSU0541	DNA polymerase I
+GSU0542	diguanylate cyclase
+GSU0543	outer membrane lipoprotein, Slp family
+GSU0544	SAM-dependent methyltransferase
+GSU0545	hypothetical protein
+GSU0546	peptidyl-tRNA hydrolase-like protein
+GSU0547	DNA mismatch repair ATPase MutS-2
+GSU0548	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0549	SAM-dependent methyltransferase
+GSU3487	hypothetical protein
+GSU0551	hypothetical protein
+GSU0552	reverse transcriptase
+GSU0553	hypothetical protein
+GSU0555	hypothetical protein
+GSU0556	transposase of ISGsu7
+GSU3488	hypothetical protein
+GSU0559	transposase of ISGsu2, IS5 family
+GSU0562	hypothetical protein
+GSU0563	hypothetical protein
+GSU3638	RNA-directed DNA polymerase and maturase, group II intron origin
+GSU0564	hypothetical protein
+GSU0566	NrdH-like redox domain-containing protein
+GSU0567	3-methyladenine DNA glycosylase
+GSU0568	hypothetical protein
+GSU0569	nicotinamidase-like cysteine hydrolase
+GSU0570	SAM-dependent methyltransferase
+GSU0571	dihydrofolate reductase
+GSU0572	hydrolase, cyclic phosphodiesterase-like domain-containing
+GSU0573	zinc-containing alcohol dehydrogenase
+GSU0574	hypothetical protein
+GSU0575	carbon starvation protein CstA
+GSU0576	hypothetical protein
+GSU0577	DNA repair protein RecO
+GSU0578	glycyl-tRNA ligase subunit alpha
+GSU0579	glycyl-tRNA ligase subunit beta
+GSU0580	pyruvate phosphate dikinase
+GSU0581	cold shock DNA/RNA-binding protein
+GSU0582	methyl-accepting chemotaxis sensory transducer, class 40H dimer with helix-swapped heme-binding site-containing PAS domain
+GSU0583	methyl-accepting chemotaxis sensory transducer, class 40+24H
+GSU0584	hypothetical protein
+GSU0585	fumarylacetoacetate hydrolase family protein
+GSU0586	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0587	carboxythiazole phosphate tautomerase
+GSU0588	thiazole synthase
+GSU0589	thiamin biosynthesis sulfur carrier protein
+GSU0590	hypothetical protein
+GSU0591	cytochrome c
+GSU0592	lipoprotein cytochrome c
+GSU0593	cytochrome b
+GSU0594	cytochrome c
+GSU3489	hypothetical protein
+GSU0596	response receiver
+GSU0597	hypothetical protein
+GSU0598	sigma-54-dependent transcriptional response regulator
+GSU0599	sensor histidine kinase, HAMP domain-containing protein
+GSU0601	glycoside hydrolase
+GSU0602	hypothetical protein
+GSU0603	hypothetical protein
+GSU0604	phosphomethylpyrimidine synthase ThiC
+GSU0605	4-amino-5-hydroxymethyl-2-methylpyrimidine- phosphate kinase and thiamin monophosphate synthase
+GSU0606	alanine racemase
+GSU0607	selenide, water dikinase, partial
+GSU0608	hypothetical protein
+GSU0609	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+GSU0610	phosphoribosylamine--glycine ligase
+GSU0611	5-carboxyamino-1-(5-phosphoribosyl)imidazole carboxymutase
+GSU0612	cytochrome c
+GSU0613	ResB-like family cytochrome c biogenesis protein
+GSU0614	ResC/HemX-like cytochrome c biogenesis membrane protein
+GSU0615	cytochrome c
+GSU0616	cytochrome c
+GSU0617	NHL repeat domain-containing protein
+GSU3490	hypothetical protein
+GSU3491	hypothetical protein
+GSU0618	cytochrome c
+GSU0619	hypothetical protein
+GSU0621	hypothetical protein
+GSU0622	hypothetical protein
+GSU0623	undecaprenyl-phosphate glycosyltransferase, DPM1-like family
+GSU0624	YqgM-like family glycosyltransferase
+GSU0625	transcriptional regulator
+GSU0626	GDP-mannose 4,6-dehydratase and GDP-6-deoxy-D-lyxo-4-hexulose reductase
+GSU0627	GDP-L-fucose synthase
+GSU0628	SAM-dependent methyltransferase
+GSU0629	lipopolysaccharide/O-antigen transporter
+GSU0630	SAM-dependent methyltransferase, type 11
+GSU0631	glycosyltransferase
+GSU0632	SAM-dependent methyltransferase
+GSU0633	dTDP-L-rhamnose--6-(N-acetylglucosamine-1- phospho)-4-N-acetylglucosaminyl-N- acetylmuramyl(pentapeptide)-diphospho-undecaprenol 3''-alpha-L-rhamnosyltransferase
+GSU0634	glycosyltransferase
+GSU0636	hypothetical protein
+GSU0637	SAM-dependent methyltransferase
+GSU0638	hypothetical protein
+GSU0639	hypothetical protein
+GSU0640	hypothetical protein
+GSU0642	signal recognition particle protein
+GSU0643	30S ribosomal protein S16
+GSU0644	RNA-binding KH domain-containing protein
+GSU0645	16S rRNA processing protein RimM
+GSU0646	tRNA (guanine-N(1)-)-methyltransferase
+GSU0647	hypothetical protein
+GSU0648	50S ribosomal protein L19
+GSU0649	ribonuclease HII
+GSU0650	hypothetical protein
+GSU0651	nitrilase/amidohydrolase superfamily protein, class 8
+GSU0652	NAD synthetase
+GSU0653	16S rRNA (2'-O-methyl-C1402)-methyltransferase
+GSU0654	thiamin biosynthesis thiocarboxylate synthase
+GSU0655	RNA polymerase sigma-32 factor RpoH
+GSU0656	branched-chain amino acid aminotransferase
+GSU0657	hypothetical protein
+GSU0658	ATP-dependent chaperone ClpB
+GSU0659	polysaccharide deacetylase domain-containing protein
+GSU0660	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+GSU0661	ribose-phosphate pyrophosphokinase
+GSU0662	50S ribosomal protein L25/general stress protein Ctc
+GSU0663	peptidyl-tRNA hydrolase
+GSU0664	GTP-binding protein YchF
+GSU0665	30S ribosomal protein S6
+GSU0666	30S ribosomal protein S18
+GSU0667	hypothetical protein
+GSU0668	50S ribosomal protein L9
+GSU0670	lipoprotein cytochrome c
+GSU0671	RNA pseudouridine synthase, RluA family
+GSU0672	cytidylate kinase-like domain-containing protein
+GSU0673	hypothetical protein
+GSU0674	hybrid cluster protein
+GSU0675	hypothetical protein
+GSU0676	lipoprotein
+GSU0677	ABC transporter membrane protein
+GSU0678	ABC transporter ATP-binding protein
+GSU0679	SAM-dependent methyltransferase
+GSU0680	hypothetical protein
+GSU0681	sensor histidine kinase
+GSU0682	LuxR family transcriptional regulator
+GSU0683	methyl-accepting chemotaxis sensory transducer, class 34H
+GSU0684	scaffold protein CheW associated with MCPs of class 34H
+GSU0685	diploptene adenosyltransferase and reductase
+GSU0686	1-deoxy-D-xylulose-5-phosphate synthase
+GSU0687	NAD-dependent nucleoside diphosphate-sugar epimerase/dehydratase
+GSU0688	squalene cyclase
+GSU0689	efflux pump, RND superfamily
+GSU0690	rRNA methyltransferase
+GSU0691	translation initiation factor Sui1
+GSU3492	hypothetical protein
+GSU0692	carbohydrate kinase, PfkB family
+GSU0693	sensor histidine kinase, PAS, PAS and PAS domain-containing
+GSU0694	HAD superfamily hydrolase
+GSU0695	hypothetical protein
+GSU0696	short-chain dehydrogenase
+GSU0697	glycosyltransferase HpnI
+GSU0698	HEAT-like repeat-containing protein
+GSU0699	cyclic diguanylate phosphodiesterase
+GSU0700	response receiver sensor protein serine/threonine phosphatase, PP2C family, PAS and PAS domain-containing
+GSU0701	cytochrome c
+GSU0702	lipoprotein cytochrome c
+GSU0703	lipoprotein
+GSU0704	ResB-like family cytochrome c biogenesis protein
+GSU0705	ResC/HemX-like cytochrome c biogenesis membrane protein
+GSU0706	major facilitator superfamily membrane protein
+GSU0707	quaternary ammonium compound resistance transporter SugE
+GSU0708	small multidrug resistance family transporter EmrE
+GSU0709	hypothetical protein
+GSU0710	hypothetical protein
+GSU0711	endonuclease/exonuclease/phosphatase family protein
+GSU0712	hypothetical protein
+GSU0713	hypothetical protein
+GSU0714	hypothetical protein
+GSU0715	hypothetical protein
+GSU0716	C14 family peptidase
+GSU0717	hypothetical protein
+GSU0718	sensor histidine kinase response receiver, PAS domain-containing
+GSU0719	hypothetical protein
+GSU0720	desulfoferrodoxin
+GSU0721	RNA polymerase factor sigma-70
+GSU0722	hypothetical protein
+GSU0723	hypothetical protein
+GSU3493	hypothetical protein
+GSU0724	hypothetical protein
+GSU0725	hypothetical protein
+GSU0726	protein glutamine deamidase and protein glutamate methylesterase CheD associated with MCPs of classes 40H and 40+24H
+GSU0727	lipoprotein
+GSU0728	polyphosphate-dependent AMP kinase
+GSU0729	iron-sulfur cluster-binding oxidoreductase
+GSU0731	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+GSU0732	RNA polymerase-binding protein Rnk
+GSU0733	rod shape-determining protein MreB
+GSU0734	Ech-hydrogenase-related complex, NuoL-like integral membrane lipoprotein subunit
+GSU0735	MerR family transcriptional regulator
+GSU0736	toxin, MazF family
+GSU0737	antitoxin
+GSU0739	Ech-hydrogenase-related complex, NuoL-like integral membrane subunit
+GSU0740	Ech-hydrogenase-related complex, NuoH-like integral membrane subunit
+GSU0741	Ech-hydrogenase-related complex, HyfE-like integral membrane subunit
+GSU0742	Ech-hydrogenase-related complex, HyfF-like integral membrane subunit
+GSU0743	Ech-hydrogenase-related complex large subunit
+GSU0745	Ech-hydrogenase-related complex small subunit
+GSU0746	cytochrome p460, 1 heme-binding site
+GSU0747	hypothetical protein
+GSU0748	hypothetical protein
+GSU0750	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU0751	hypothetical protein
+GSU3494	hypothetical protein
+GSU0752	major facilitator superfamily membrane protein
+GSU0753	lipoprotein
+GSU0754	hypothetical protein
+GSU0755	hypothetical protein
+GSU0756	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU0757	lipoprotein
+GSU3495	hypothetical protein
+GSU0758	hypothetical protein
+GSU0759	hypothetical protein
+GSU3496	lipoprotein
+GSU3497	hypothetical protein
+GSU3498	hypothetical protein
+GSU3500	hypothetical protein
+GSU3639	transposase of ISGsu7
+GSU3630	hypothetical protein
+GSU0761	transposase of ISGsu7
+GSU0762	hypothetical protein
+GSU0763	helicase
+GSU3502	hypothetical protein
+GSU3503	hypothetical protein
+GSU3504	hypothetical protein
+GSU0766	methyl-accepting chemotaxis sensory transducer, class 40+24H
+GSU0767	outer membrane channel protein
+GSU0768	AzlC family protein
+GSU3505	AzlD family membrane protein
+GSU0769	RarD protein, DMT superfamily transporter
+GSU3506	hypothetical protein
+GSU0770	TetR family transcriptional regulator
+GSU0771	NADPH:quinone oxidoreductase family protein
+GSU0772	flavodoxin
+GSU0773	major facilitator superfamily membrane protein
+GSU0774	iron-sulfur cluster-binding oxidoreductase
+GSU0775	sensor histidine kinase, HAMP domain-containing
+GSU0776	sigma-54-dependent transcriptional response regulator
+GSU0777	periplasmically oriented, membrane-bound formate dehydrogenase, major subunit, selenocysteine-containing, partial
+GSU0778	periplasmically oriented, membrane-bound formate dehydrogenase, iron-sulfur cluster-binding subunit
+GSU0779	periplasmically oriented, membrane-bound formate dehydrogenase, b-type cytochrome subunit
+GSU0780	formate dehydrogenase accessory protein FdhD and molybdopterin nucleotidyltransferase
+GSU0781	twin-arginine translocation pathway protein, TatA/TatE family
+GSU3507	hypothetical protein
+GSU0782	periplasmically oriented, membrane-bound [NiFe]-hydrogenase small subunit
+GSU0783	hydrogenase 2 protein HybA
+GSU0784	hydrogenase 2 b cytochrome subunit
+GSU0785	periplasmically oriented, membrane-bound [NiFe]-hydrogenase large subunit
+GSU0786	periplasmically oriented, membrane-bound [NiFe]-hydrogenase maturation protease
+GSU0787	twin-arginine translocation pathway protein, TatA/TatE family
+GSU0788	hypothetical protein
+GSU0789	response regulator
+GSU0790	hypothetical protein
+GSU0791	hypothetical protein
+GSU0792	hypothetical protein
+GSU0793	NosL family protein
+GSU0794	FAD-dependent pyridine nucleotide-disulfide oxidoreductase family protein
+GSU0795	hypothetical protein
+GSU3508	hypothetical protein
+GSU0796	long-chain acyl-CoA thioesterase
+GSU0797	MarC family membrane protein
+GSU0798	amino acid ABC transporter ATP-binding protein
+GSU0799	ABC transporter membrane protein
+GSU0800	amino acid ABC transporter substrate-binding protein
+GSU0801	hypothetical protein
+GSU0802	short chain dehydrogenase
+GSU0803	phosphoenolpyruvate synthase
+GSU0804	NAD(P)H:quinone oxidoreductase
+GSU0805	hypothetical protein
+GSU0806	2'-(5''-triphosphoribosyl)-3'-dephospho-coenzyme A synthase
+GSU0807	apo-citrate lyase 2'-(5''-triphosphoribosyl)-3'-dephospho-coenzyme A transferase
+GSU0808	diguanylate cyclase, CAP_ED domain-containing
+GSU0809	carbonic anhydrase
+GSU0810	peptidoglycan-binding outer membrane protein
+GSU0811	sigma-54-dependent transcriptional response regulator
+GSU0812	sensor histidine kinase, HAMP and PAS domain-containing
+GSU0813	organic solvent tolerance ABC transporter substrate-binding protein
+GSU0814	RND family efflux pump outer membrane protein
+GSU0815	ABC transporter substrate-binding lipoprotein
+GSU0816	organic solvent tolerance ABC transporter ATP-binding protein
+GSU0817	ABC transporter
+GSU0818	aldehyde dehydrogenase family 11 protein
+GSU3509	hypothetical protein
+GSU0819	FMN-dependent polypeptide cyclic thioester oxidase
+GSU0820	signal peptide peptidase SppA
+GSU0821	hypothetical protein
+GSU0822	sensor histidine kinase, Cache_1, HAMP and PAS domain-containing
+GSU0823	PpiC-type peptidylprolyl cis-trans isomerase
+GSU0824	hypothetical protein
+GSU0825	pirin family protein
+GSU0826	hypothetical protein
+GSU0827	hypothetical protein
+GSU0828	RND family efflux pump outer membrane protein
+GSU0829	RND family efflux pump membrane fusion protein
+GSU0830	RND family efflux pump inner membrane protein
+GSU0831	nitrogen regulatory protein P-II
+GSU0832	lipoprotein
+GSU3510	hypothetical protein
+GSU0834	hypothetical protein
+GSU0835	hypothetical protein
+GSU0836	RNA polymerase-binding protein Rnk
+GSU0837	response regulator
+GSU0841	sigma-54-dependent transcriptional response regulator
+GSU0842	sensor histidine kinase response regulator, GAF and PAS domain-containing
+GSU0843	rubredoxin reductase
+GSU0844	transporter
+GSU0845	ferredoxin, Rieske superfamily
+GSU0846	aconitate hydratase
+GSU0847	rubredoxin
+GSU0848	ferredoxin
+GSU0849	iron-sulfur cluster repair protein ScdA
+GSU0850	protein disulfide bond isomerase, DsbC/DsbG-like protein
+GSU0851	rhomboid-like membrane protein
+GSU0852	lipoprotein
+GSU0853	transporter
+GSU0854	hypothetical protein
+GSU0855	TerC family membrane protein
+GSU0856	membrane-bound zinc-dependent protease HtpX
+GSU0857	hypothetical protein
+GSU0858	periplasmic energy transduction protein
+GSU0859	glucose-1-phosphate uridylyltransferase
+GSU0860	5,10-methylenetetrahydrofolate reductase
+GSU0861	5,10-methylenetetrahydrofolate reductase-associated protein
+GSU0862	5,10-methylenetetrahydrofolate dehydrogenase and methenyltetrahydrofolate cyclohydrolase
+GSU0863	regulatory protein, CxxC_CxxC_SSSS domain-containing
+GSU0864	hypothetical protein
+GSU0865	cell division protein DivIVA
+GSU0866	hypothetical protein
+GSU0867	menaquinone biosynthesis methyltransferase
+GSU0868	diadenylate cyclase, YbbR and YbbR domain-containing
+GSU0869	hypothetical protein
+GSU0870	NUDIX hydrolase, MutT family
+GSU0871	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0872	lipoprotein
+GSU0874	hypothetical protein
+GSU3511	hypothetical protein
+GSU0876	sphingosine/diacylglycerol kinase-like protein
+GSU0877	response regulator, PilZ domain-containing
+GSU0878	glycosyltransferase
+GSU0879	response receiver scaffold protein CheV
+GSU0880	molybdopterin-binding iron-sulfur cluster-binding oxidoreductase MopB-3
+GSU0881	sensor histidine kinase, HAMP domain-containing
+GSU0882	ABC transporter substrate-binding protein
+GSU0883	ligand-gated TonB-dependent outer membrane channel
+GSU3629	hypothetical protein
+GSU0884	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0885	BioD and DRTGG domain-containing protein
+GSU0886	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU0887	hypothetical protein
+GSU0888	hypothetical protein
+GSU0889	acylphosphatase
+GSU0890	NAD-dependent DNA ligase
+GSU0891	serine protease
+GSU0892	ATP-dependent DNA helicase Rep
+GSU0893	peroxiredoxin, typical 2-Cys subfamily
+GSU0894	cyclophilin type peptidyl-prolyl cis-trans isomerase
+GSU0895	sensor diguanylate cyclase, GAF domain-containing
+GSU3513	hypothetical protein
+GSU0896	zinc protease TldD modulator of DNA gyrase
+GSU3514	hypothetical protein
+GSU0897	protein 3-oxoalanine-generating enzyme family protein
+GSU0898	ATP-dependent DNA helicase RecQ
+GSU0899	hypothetical protein
+GSU0900	SAM-dependent methyltransferase
+GSU3515	hypothetical protein
+GSU0902	response receiver
+GSU0903	response receiver
+GSU3518	sensor histidine kinase
+GSU0904	metal-dependent phosphohydrolase, HDOD domain-containing
+GSU0905	hypothetical protein
+GSU3519	cold shock DNA/RNA-binding protein
+GSU0906	30S ribosomal protein S21
+GSU0907	ThiF family protein
+GSU0908	MoaD family protein
+GSU0909	FAD-dependent pyridine nucleotide-disulfide oxidoreductase family protein
+GSU0910	aldehyde:ferredoxin oxidoreductase, tungsten-containing
+GSU0911	iron-sulfur cluster-binding oxidoreductase
+GSU0912	hypothetical protein
+GSU0913	DNA-binding ATPase Uup
+GSU0914	ATP-dependent RNA helicase RhlE
+GSU0915	hypothetical protein
+GSU0916	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU0917	hypothetical protein
+GSU0918	S-adenosylmethionine synthetase
+GSU0919	hypothetical protein
+GSU3520	hypothetical protein
+GSU0921	ribonuclease, Rne/Rng family
+GSU0922	ABC transporter ATP-binding protein
+GSU0923	ATP-dependent Lon protease (La)
+GSU0924	transporter
+GSU0925	ABC transporter ATP-binding protein
+GSU0926	ABC transporter substrate-binding lipoprotein
+GSU0927	zinc-dependent peptidase
+GSU0928	zinc-dependent peptidase
+GSU0929	hypothetical protein
+GSU0930	hypothetical protein, partial
+GSU0931	hypothetical protein
+GSU0932	uracil transporter
+GSU0933	uracil phosphoribosyltransferase
+GSU0934	hypothetical protein
+GSU0935	methyl-accepting chemotaxis sensory transducer, class 40H dimer with helix-swapped heme-binding site-containing PAS domain
+GSU0936	glutamine-dependent amidotransferase, class I
+GSU0937	trans-homoaconitate synthase
+GSU0938	hypothetical protein
+GSU0939	nitrogen regulatory protein P-II
+GSU0940	ammonium transporter
+GSU0941	nitrogen fixation transcript antitermination sensor histidine kinase
+GSU0942	histidinol-phosphate phosphatase
+GSU0943	PilZ domain-containing protein
+GSU0944	cystathionine gamma-synthase/beta-lyase
+GSU0945	cystathionine gamma-synthase/beta-lyase
+GSU0946	sensor diguanylate cyclase/phosphodiesterase, HAMP and PAS domain-containing
+GSU0947	ABC transporter ATP-binding protein
+GSU0948	ABC transporter membrane protein
+GSU0949	RND family efflux pump membrane fusion protein
+GSU0950	RND family efflux pump outer membrane protein
+GSU0951	TetR family transcriptional regulator
+GSU0952	diguanylate cyclase
+GSU0953	lipoprotein
+GSU0954	transposase, Y1_Tnp domain-containing
+GSU3521	hypothetical protein
+GSU0955	RNA-directed DNA polymerase and maturase, group II intron origin
+GSU0956	hypothetical protein
+GSU0957	transposase of ISGsu1, IS4 family
+GSU0958	hypothetical protein
+GSU0959	hypothetical protein
+GSU3522	hypothetical protein
+GSU0961	transposase of ISGsu4
+GSU0962	sensor histidine kinase, HAMP domain-containing
+GSU0963	sigma-54-dependent transcriptional response regulator
+GSU0964	hypothetical protein
+GSU0966	hypothetical protein
+GSU0967	hypothetical protein
+GSU0968	hypothetical protein
+GSU0969	periplasmic carboxy-terminal processing protease lipoprotein
+GSU0970	hypothetical protein
+GSU0971	hydrolase
+GSU0972	AAA ATPase
+GSU0973	hypothetical protein
+GSU0974	hypothetical protein
+GSU0975	phage tail sheath protein
+GSU0976	phage tail tube protein gp19
+GSU0977	hypothetical protein
+GSU0978	hypothetical protein
+GSU0979	phage tail tube protein gp19
+GSU0980	hypothetical protein
+GSU0981	hypothetical protein
+GSU0982	phage protein D
+GSU0983	phage tail spike protein
+GSU0985	PAAR motif-containing protein
+GSU0986	phage baseplate outer wedge protein (acidic lysozyme)
+GSU0987	hypothetical protein
+GSU0988	hypothetical protein
+GSU0989	NHL repeat domain-containing protein
+GSU0990	hypothetical protein
+GSU0991	ExpC-like family glycosyltransferase
+GSU0992	hypothetical protein
+GSU0993	acyl-CoA thioesterase
+GSU0994	fumarate hydratase
+GSU0996	SAP domain-containing protein
+GSU0997	formamidopyrimidine-DNA glycosylase
+GSU0998	replicative DNA helicase
+GSU0999	UDP-N-acetylglucosamine acyltransferase
+GSU1000	hypothetical protein
+GSU1001	hypothetical protein
+GSU1002	amidohydrolase
+GSU1003	nitrogen fixation master sigma-54-dependent transcriptional response regulator
+GSU1004	nitrogen fixation master sensor histidine kinase, PAS domain-containing
+GSU1005	TIM barrel oxidoreductase NifR3
+GSU1006	hypothetical protein
+GSU1007	sensor cyclic diguanylate phosphodiesterase, GAF and GAF domain-containing
+GSU1008	enoyl-ACP reductase
+GSU1009	GTPase, HflX subfamily
+GSU1010	lytic transglycosylase, SLT, LysM and LysM domain-containing
+GSU1011	hypothetical protein
+GSU1012	hypothetical protein
+GSU1013	peptidoglycan-binding lipoprotein, OmpA family
+GSU1014	Smr domain-containing protein
+GSU1015	hypothetical protein
+GSU1016	AspT family membrane protein
+GSU1017	hypoxanthine-guanine phosphoribosyltransferase
+GSU1018	hypothetical protein
+GSU1019	hypoxanthine/guanine transport membrane protein
+GSU1021	hypothetical protein
+GSU1023	glycogen synthase
+GSU1024	cytochrome c
+GSU1025	hypothetical protein
+GSU1026	hypothetical protein
+GSU1027	N-carbamylputrescine amidohydrolase
+GSU1028	agmatine deiminase
+GSU1029	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU1030	methyl-accepting chemotaxis sensory transducer, class 40H, Cache_2 domain-containing
+GSU1032	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU1033	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU1034	nitrate/nitrite-sensing methyl-accepting chemotaxis sensory transducer, class 40H, NIT domain-containing
+GSU1035	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU1036	sensor histidine kinase, CHASE domain-containing
+GSU1037	response receiver-modulated diguanylate cyclase/phosphodiesterase
+GSU1038	response receiver histidine kinase
+GSU1039	sigma-54-dependent sensor transcriptional response regulator
+GSU1041	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU1042	hemerythrin family protein
+GSU1043	sensor histidine kinase, PAS domain-containing
+GSU1044	NADH pyrophosphatase
+GSU1045	hypothetical protein
+GSU1046	hypothetical protein
+GSU1047	SAM-dependent methyltransferase
+GSU1048	SEC-C motif domain-containing protein
+GSU1049	ribonuclease Z
+GSU1050	sensor histidine kinase
+GSU1051	PilZ domain-containing protein
+GSU1052	alpha/beta fold family hydrolase
+GSU1053	sensor protein, PAS and PAS domain-containing
+GSU1054	tRNA (5-carboxymethylaminomethyl-2-thio-U34) synthesis sulfur carrier protein
+GSU1055	hypothetical protein
+GSU1056	hypothetical protein
+GSU1057	hypothetical protein
+GSU1058	succinyl-CoA synthetase subunit beta
+GSU1059	succinyl-CoA synthetase subunit alpha
+GSU1060	hypothetical protein
+GSU1061	aspartate aminotransferase
+GSU1062	cytochrome c, 1 heme-binding site
+GSU1063	type IV pilus minor pilin PilV
+GSU1064	type IV pilus minor pilin PilW
+GSU1065	type IV pilus minor pilin PilX
+GSU1066	type IV pilus assembly protein PilY
+GSU1067	nucleotidyltransferase
+GSU1068	sodium/solute symporter family protein
+GSU1069	hypothetical protein
+GSU1070	sodium/solute symporter family protein
+GSU1071	hypothetical protein
+GSU1072	IclR family transcriptional regulator
+GSU1073	lipoprotein
+GSU1074	hypothetical protein
+GSU1075	Holliday junction resolvase
+GSU1076	Holliday junction DNA helicase RuvA
+GSU1077	Holliday junction DNA helicase RuvB
+GSU1078	DnaA regulatory inactivator Hda
+GSU1079	PEP motif-containing protein exosortase substrate
+GSU1080	hypothetical protein
+GSU1081	hypothetical protein
+GSU1082	hypothetical protein
+GSU1083	hypothetical protein
+GSU1084	hypothetical protein
+GSU1085	hypothetical protein
+GSU1086	hypothetical protein
+GSU1087	phasin superfamily protein
+GSU1088	quinone biosynthesis kinase AarF
+GSU1089	iron-sulfur cluster-binding oxidoreductase
+GSU1090	response receiver
+GSU1091	transport protein, Tim44-like domain
+GSU1092	GH3 family protein
+GSU1093	hypothetical protein
+GSU1094	hypothetical protein
+GSU1095	phosphate transport system regulatory protein PhoU
+GSU1096	phosphate ABC transporter ATP-binding protein
+GSU1097	phosphate ABC transporter membrane protein PstA
+GSU1098	phosphate ABC transporter membrane protein PstC
+GSU1099	phosphate ABC transporter substrate-binding protein
+GSU1100	hypothetical protein
+GSU1101	phosphate sensor histidine kinase, HAMP and PAS domain-containing
+GSU1102	winged-helix phosphate transcriptional response regulator
+GSU1103	AMP-binding protein
+GSU1104	lipoprotein
+GSU1105	prolidase family protein
+GSU1106	type I citrate synthase
+GSU1107	AMMECR1 family protein
+GSU1108	aldehyde dehydrogenase
+GSU3524	lipoprotein
+GSU1110	multifunctional nucleoside diphosphate kinase/apyrimidinic endonuclease/3'-phosphodiesterase
+GSU1111	ribosomal RNA large subunit methyltransferase N
+GSU1112	methylthioadenosine phosphorylase
+GSU1113	adenosine kinase
+GSU1114	lipoprotein
+GSU1115	helix-turn-helix domain-containing protein
+GSU1116	GAF domain-containing protein
+GSU1117	response regulator
+GSU1118	universal stress protein Usp
+GSU1119	response receiver histidine kinase
+GSU1120	response receiver
+GSU1121	FAD-dependent oxidoreductase
+GSU1122	3'-to-5' exonuclease YhaM
+GSU1123	zinc-dependent hydrolase YcbL
+GSU1124	phosphopantothenylcysteine decarboxylase and phosphopantothenate--cysteine ligase
+GSU1125	hypothetical protein
+GSU1126	uracil-DNA glycosylase
+GSU1127	hypothetical protein
+GSU1128	acyl-CoA thioesterase
+GSU1129	sigma-54-dependent transcriptional response regulator
+GSU1130	chromosome segregation ATPase SMC
+GSU1131	GTPase-activating protein
+GSU1132	signal recognition particle-docking protein FtsY
+GSU1133	cell division protein ZapB
+GSU1134	cell division protein ZapA
+GSU1135	hypothetical protein
+GSU1136	5-formyltetrahydrofolate cyclo-ligase
+GSU1137	phosphodiesterase
+GSU1138	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+GSU1139	tyrosyl-tRNA ligase
+GSU1140	methyl-accepting chemotaxis sensory transducer, class 34H
+GSU1141	methyl-accepting chemotaxis sensory transducer, class 34H
+GSU1142	scaffold protein CheW associated with MCPs of class 34H
+GSU1143	protein glutamate methyltransferase CheR associated with MCPs of class 34H
+GSU1144	protein glutamine deamidase and protein glutamate methylesterase CheD associated with MCPs of class 34H
+GSU1145	protein glutamate methylesterase CheB associated with MCPs of class 34H, response receiver domain-containing
+GSU1146	lipoprotein
+GSU1147	hypothetical protein
+GSU1148	sensor histidine kinase, HAMP domain-containing
+GSU1149	cyclic diguanylate phosphodiesterase
+GSU1150	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU1151	hydrolase
+GSU1152	hypothetical protein
+GSU1153	outer membrane lipoprotein
+GSU1154	surface repeat protein
+GSU1155	glutaredoxin family protein
+GSU1156	asparaginyl-tRNA ligase
+GSU1157	hypothetical protein
+GSU1158	superoxide dismutase, iron/manganese-containing
+GSU1159	Pfpi family intracellular protease
+GSU1160	hypothetical protein
+GSU1161	RND family efflux pump membrane fusion protein
+GSU1162	ABC transporter ATP-binding protein
+GSU1163	ABC transporter membrane protein
+GSU1164	ABC transporter membrane protein
+GSU1165	GAF domain phosphoenolpyruvate--protein phosphotransferase PtsP
+GSU1166	hypothetical protein
+GSU1167	hypothetical protein
+GSU1168	SCP-like extracellular lipoprotein
+GSU1169	hypothetical protein
+GSU1171	thioredoxin domain-containing protein YyaL
+GSU1172	membrane protein MviN
+GSU1173	methylated DNA--protein cysteine S-methyltransferase, partial
+GSU1174	nucleoside triphosphate pyrophosphohydrolase
+GSU1175	queuine tRNA-ribosyltransferase
+GSU1176	succinate dehydrogenase/fumarate reductase, cytochrome b558 subunit
+GSU1177	succinate dehydrogenase flavoprotein subunit
+GSU1178	succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+GSU1179	hypothetical protein
+GSU1180	cell division ATP-dependent zinc protease FtsH
+GSU1181	hypothetical protein
+GSU1182	4-alpha-glucanotransferase
+GSU1183	O-acetyl-L-homoserine sulfhydrylase
+GSU1184	ACP phosphodiesterase
+GSU1185	adenosine kinase
+GSU1188	rhomboid-like membrane protein
+GSU1189	M48 family peptidase
+GSU1190	tRNA 2-selenouridine synthase
+GSU1192	PilZ domain-containing protein
+GSU1193	ketose-1,6-bisphosphate aldolase, class II
+GSU1194	RhtB family transporter
+GSU1195	metal-dependent phosphohydrolase, HDc domain-containing
+GSU1196	hypothetical protein
+GSU1197	SpoU-class rRNA methyltransferase CspR
+GSU1198	D-3-phosphoglycerate dehydrogenase
+GSU1199	nuclease
+GSU1200	30S ribosomal protein S1
+GSU1201	transcription elongation factor GreB
+GSU1202	mannose-1-phosphate guanylyltransferase
+GSU1203	potassium/proton antiporter
+GSU1204	Kef-type potassium transporter NAD-binding protein
+GSU1205	flavodoxin
+GSU1206	metal-dependent phosphohydrolase
+GSU1207	HesB/YadR/YfhF family protein, selenocysteine-containing
+GSU1208	hypothetical protein
+GSU1209	hypothetical protein
+GSU1210	metal-dependent hydrolase
+GSU1211	HNH endonuclease family protein
+GSU1212	hypothetical protein
+GSU1213	hypothetical protein
+GSU1214	helix-turn-helix SAM-dependent methyltransferase
+GSU1215	thiol reductant ABC exporter, ATP-binding protein CydD
+GSU1216	thiol reductant ABC exporter, ATP-binding protein CydC
+GSU1217	hypothetical protein
+GSU1218	hypothetical protein
+GSU1219	glutamyl-tRNA ligase
+GSU1220	response regulator, GspIIEN domain-containing
+GSU1221	ammonium transporter
+GSU1222	histone deacetylase family protein
+GSU1223	hypothetical protein
+GSU1224	hypothetical protein
+GSU1225	hypothetical protein
+GSU1227	ABC transporter ATP-binding protein
+GSU1228	lipoprotein cytochrome c
+GSU1229	outer membrane channel lipoprotein
+GSU1230	ABC transporter substrate-binding protein
+GSU1231	response receiver-related domain-containing protein
+GSU1232	hypothetical protein
+GSU1233	manganese/nickel-dependent phosphodiesterase, YfcE family
+GSU1234	S49 family peptidase
+GSU1235	archaeal-type glutamate synthase subunit
+GSU1236	glutamine amidotransferase
+GSU1237	FAD-dependent pyridine nucleotide-disulfide oxidoreductase family protein
+GSU1238	iron-sulfur cluster-binding oxidoreductase
+GSU1239	glutamate synthase
+GSU1240	PilZ domain-containing protein
+GSU1241	hypothetical protein
+GSU1242	amino acid aminotransferase
+GSU1243	phosphopantetheine adenylyltransferase
+GSU1244	DNA methyltransferase
+GSU1245	ketose-1,6-bisphosphate aldolase, class II
+GSU1246	deoxyguanosinetriphosphate triphosphohydrolase-like protein
+GSU1247	hypothetical protein
+GSU1249	sensor histidine kinase, PAS domain-containing
+GSU1250	sigma-54-dependent transcriptional response regulator
+GSU1251	lipoprotein
+GSU1252	multicopper oxidase with phosphopantotheine attachment site
+GSU1253	hypothetical protein
+GSU1254	hypothetical protein
+GSU1255	SCO family protein
+GSU1256	SCO family protein
+GSU1257	cytochrome c and periplasmic receptor, 1 heme-binding site
+GSU1258	NosL family protein
+GSU1259	hypothetical protein
+GSU1260	ABC transporter membrane protein
+GSU1261	ABC transporter ATP-binding protein
+GSU1262	hypothetical protein
+GSU1263	RNA-binding protein YhbY
+GSU1264	histidine phosphotransfer domain-containing protein
+GSU1265	sensor histidine kinase response regulator
+GSU1266	GTP-binding protein LepA
+GSU1267	signal peptidase I
+GSU1268	LysR family transcriptional regulator
+GSU1269	hypothetical protein
+GSU1270	bifunctional pyrimidine regulatory protein PyrR/uracil phosphoribosyltransferase
+GSU1271	aspartate carbamoyltransferase catalytic subunit
+GSU1272	dihydroorotase
+GSU1273	carbamoyl phosphate synthase small subunit
+GSU1274	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU1275	hypothetical protein
+GSU1276	carbamyl-phosphate synthase, large subunit lipoprotein, glutamine-dependent
+GSU1277	transcription elongation factor GreA
+GSU1278	hypothetical protein
+GSU1279	nickel ABC transporter membrane protein NikMN
+GSU1280	nickel ABC transporter membrane protein NikQ
+GSU1281	nickel ABC transporter ATP-binding protein
+GSU1282	outer membrane channel protein
+GSU1283	NosL family protein
+GSU1284	cytochrome c, 1 heme-binding site
+GSU1285	sensor histidine kinase response regulator, PAS and PAS domain-containing
+GSU1286	response receiver CheY associated with MCPs of class 34H
+GSU1287	methyl-accepting chemotaxis sensory transducer
+GSU3526	STAS domain-containing protein
+GSU1289	response receiver CheY associated with MCPs of class 34H
+GSU1290	sensor histidine kinase CheA associated with MCPs of class 34H
+GSU1291	response regulator
+GSU1292	sensor histidine kinase, PAS domain-containing
+GSU1293	LuxR family transcriptional regulator
+GSU1294	methyl-accepting chemotaxis sensory transducer, class 34H
+GSU1295	periplasmic solute-binding protein
+GSU1296	sensor histidine kinase response regulator
+GSU1297	transposase of ISGsu2, IS5 family
+GSU1298	methyl-accepting chemotaxis sensory transducer, class 34H
+GSU1299	scaffold protein CheW associated with MCPs of class 34H
+GSU1300	methyl-accepting chemotaxis sensory transducer, class 34H
+GSU1301	scaffold protein CheW associated with MCPs of class 34H
+GSU1302	sensor histidine kinase response regulator, HAMP domain-containing heme-binding site
+GSU1303	methyl-accepting chemotaxis sensory transducer, class 34H
+GSU1304	methyl-accepting chemotaxis sensory transducer, class 34H
+GSU1305	glutamate dehydrogenase
+GSU1306	phosphotransferase, PolIIIAc domain-containing
+GSU1307	nonheme ferritin
+GSU1308	hypothetical protein
+GSU1309	hypothetical protein
+GSU1310	FAD-dependent pyridine nucleotide-disulfide oxidoreductase family protein
+GSU1311	glucose-6-phosphate isomerase
+GSU1312	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU1313	carboxymuconolactone decarboxylase family protein
+GSU1314	hypothetical protein
+GSU1315	mercuric reductase
+GSU1316	response regulator sensor, GAF domain-containing
+GSU1317	octaprenyl diphosphate synthase
+GSU1318	hypothetical protein
+GSU1319	sensor histidine kinase
+GSU1320	sigma-54-dependent transcriptional response regulator
+GSU1321	apocytochrome c disulfide reductase lipoprotein ResA
+GSU1322	cytochrome c biogenesis protein CcdA
+GSU1323	glyoxalase/bleomycin resistance protein/dioxygenase superfamily protein
+GSU3527	hypothetical protein
+GSU1324	RNA-binding protein
+GSU1326	ATP-dependent DNA helicase RecG
+GSU1327	homocysteine S-methyltransferase domain-containing protein
+GSU1328	hypothetical protein
+GSU1329	glutamyl-Q tRNA(Asp) ligase
+GSU1330	RND family metal ion efflux pump outer membrane protein
+GSU1331	RND family metal ion efflux pump membrane fusion protein
+GSU1332	RND family metal ion efflux pump inner membrane protein
+GSU1333	hypothetical protein
+GSU1334	cytochrome c
+GSU1336	TerC family membrane protein
+GSU1337	lipoprotein
+GSU1338	heavy metal transport/detoxification domain-containing protein
+GSU1339	hypothetical protein
+GSU1340	ABC transporter membrane protein
+GSU1341	ABC transporter ATP-binding protein
+GSU1342	LysR family transcriptional regulator
+GSU1343	amidohydrolase
+GSU1344	amidohydrolase
+GSU1345	Rrf2 family winged helix-turn-helix transcriptional regulator
+GSU1346	sulfate ABC transporter substrate-binding protein
+GSU1347	sulfate ABC transporter membrane protein CysU
+GSU1348	sulfate ABC transporter membrane protein CysW
+GSU1349	sulfate ABC transporter ATP-binding protein
+GSU1350	thiamin biosynthesis thiocarboxylate synthase
+GSU1351	sulfite reductase subunit
+GSU1352	tRNA (5-carboxymethylaminomethyl-2-thio-U34) synthesis sulfur carrier protein
+GSU1353	antitoxin, Phd family
+GSU1354	toxin, RelE family
+GSU1355	hypothetical protein
+GSU1356	transposase of ISGsu7
+GSU1357	hypothetical protein
+GSU1358	hypothetical protein
+GSU1359	helicase
+GSU1360	Sir2 superfamily protein
+GSU1361	Piwi domain-containing protein
+GSU1362	hypothetical protein
+GSU1363	RNA-directed DNA polymerase
+GSU1364	HNH endonuclease family protein
+GSU1365	type II restriction endonuclease, zinc finger
+GSU1367	hypothetical protein
+GSU1368	hypothetical protein
+GSU1369	endonuclease
+GSU1370	oxidoreductase, aldo/keto reductase family
+GSU1371	NADPH-dependent enal/enone/nitroreductase, Oye family
+GSU1372	glyoxalate/3-oxopropanoate/4-oxobutanoate reductase
+GSU1374	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU1375	hypothetical protein
+GSU1376	hypothetical protein
+GSU1377	enoyl-CoA hydratase/isomerase
+GSU1378	metal-dependent hydrolase
+GSU1379	ferric uptake regulation protein Fur
+GSU1380	ferrous iron transport protein B
+GSU1381	hypothetical protein
+GSU1382	iron/manganese-dependent transcriptional regulator
+GSU1383	3'-to-5' exonuclease
+GSU1384	helicase Cas3
+GSU1385	Cascade antiviral complex protein
+GSU1386	CRISPR processing complex protein CasB
+GSU1387	CRISPR processing complex protein CasC
+GSU1388	CRISPR processing complex protein CasD
+GSU1389	CRISPR processing complex protein CasE
+GSU1390	antitoxin, XRE family
+GSU1391	toxin, Fic family
+GSU1392	CRISPR-associated endodeoxyribonuclease Cas1
+GSU1393	ssRNA endonuclease
+GSU1394	laccase family multicopper oxidase
+GSU1395	hypothetical protein
+GSU1396	hypothetical protein
+GSU1397	ABC transporter substrate-binding lipoprotein
+GSU1398	SCO family protein
+GSU1399	magnesium transport protein CorA
+GSU1400	sensor diguanylate cyclase, PAS domain-containing
+GSU1401	DNA polymerase III subunit alpha
+GSU1402	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+GSU1403	23S rRNA pseudouridine 2605 synthase
+GSU1404	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU3529	hypothetical protein
+GSU1406	hypothetical protein, partial
+GSU1408	MRP-like NifH superfamily NTPase
+GSU1409	NifU-like domain-containing protein
+GSU1410	hypothetical protein
+GSU1411	arsenite efflux pump ACR3 family transporter
+GSU1412	hypothetical protein
+GSU3530	nitrogenase molybdenum-iron cofactor biosynthesis NifB/NifX-like protein
+GSU1414	sensor histidine kinase response regulator, PAS, PAS and PAS domain-containing
+GSU1415	response regulator
+GSU1416	iron-sulfur cluster-binding flavodoxin
+GSU1417	response regulator
+GSU1418	hypothetical protein
+GSU1419	helix-turn-helix XRE domain-containing protein
+GSU1420	rRNA methyltransferase
+GSU1421	DNA repair exonuclease SbcCD, D subunit
+GSU1422	DNA repair exonuclease SbcCD, C subunit
+GSU1423	purine nucleoside phosphoramidase
+GSU1424	hypothetical protein
+GSU1425	prolipoprotein diacylglyceryl transferase
+GSU1426	anti-sigma factor, protein serine/threonine kinase
+GSU1427	anti-anti-sigma factor
+GSU1429	sodium/solute symporter serine/threonine phosphatase domain-containing protein
+GSU1430	hypothetical protein
+GSU1431	kinase
+GSU1432	hypothetical protein
+GSU1433	peptide ABC transporter substrate-binding lipoprotein
+GSU1434	peptide ABC transporter membrane protein
+GSU1435	peptide ABC transporter membrane protein
+GSU1436	hypothetical protein
+GSU1437	peptidase lipoprotein, M48 family
+GSU1438	ATPase
+GSU1440	corrinoid iron-sulfur protein/putative mercury methyltransferase HgcA
+GSU1441	putative cobalamin-HgcA reductase HgcB
+GSU1442	carbonic anhydrase
+GSU1443	sensor histidine kinase response regulator, HAMP domain-containing
+GSU1444	ABC transporter substrate-binding protein
+GSU1445	ligand-gated TonB-dependent outer membrane channel
+GSU1446	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU1447	hypothetical protein
+GSU1448	metal-dependent phosphoesterase, PHP family
+GSU1449	hypothetical protein
+GSU1450	endonuclease III-like DNA glycosidase
+GSU1451	glyoxalate/3-oxopropanoate/4-oxobutanoate reductase-like protein
+GSU1452	TrmA family RNA methyltransferase
+GSU1453	hypothetical protein
+GSU1454	CESA-like subfamily glycosyltransferase
+GSU1455	hypothetical protein
+GSU1456	hypothetical protein
+GSU1457	polysaccharide deacetylase domain-containing protein
+GSU1458	hypothetical protein
+GSU1459	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+GSU1460	prolyl-tRNA ligase
+GSU1461	orotidine 5'-phosphate decarboxylase
+GSU1462	23S rRNA (2'-O-methyl-G2251)-methyltransferase
+GSU1463	aspartyl-tRNA ligase
+GSU1464	lysM domain-containing protein
+GSU1465	isocitrate dehydrogenase
+GSU1466	malate dehydrogenase
+GSU1467	2-oxoglutarate:ferredoxin oxidoreductase, ferredoxin subunit
+GSU1468	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+GSU1469	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+GSU1470	2-oxoglutarate:ferredoxin oxidoreductase subunit gamma
+GSU1471	cyclic diguanylate phosphodiesterase
+GSU1472	PATAN domain-containing protein
+GSU1473	hypothetical protein
+GSU1474	membrane protein DedA
+GSU1475	tRNA (2'O-methyl-C32/U32)-methyltransferase
+GSU1476	hypothetical protein
+GSU1477	LemA family lipoprotein
+GSU1478	hypothetical protein
+GSU1479	hypothetical protein
+GSU1480	RND family multidrug resistance efflux pump inner membrane protein EmrB
+GSU1481	RND family multidrug resistance efflux pump membrane fusion protein EmrA
+GSU1482	RND family efflux pump outer membrane protein
+GSU1483	MarR family winged helix-turn-helix transcriptional regulator
+GSU1484	lytic transglycosylase domain-containing protein
+GSU1485	exoribonuclease R
+GSU1486	twin-arginine translocation pathway protein TatC
+GSU1487	riboflavin kinase and FAD synthetase
+GSU1488	hypothetical protein
+GSU1489	polyprenyl-phospho-glycoside--protein O-glycosyltransferase
+GSU1490	shikimate 5-dehydrogenase
+GSU1491	type IV pilus biogenesis ATPase PilB
+GSU1492	twitching motility pilus retraction protein
+GSU1493	type IV pilus inner membrane protein PilC
+GSU1494	sensor histidine kinase PilS, PAS domain-containing
+GSU1495	sigma-54-dependent transcriptional response regulator PilR
+GSU1496	hypothetical protein
+GSU1497	hypothetical protein
+GSU1498	hypothetical protein
+GSU1499	hypothetical protein
+GSU1500	hypothetical protein
+GSU1501	ABC transporter ATP-binding protein
+GSU1502	phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase
+GSU1503	glycosyltransferase
+GSU1504	ABC transporter membrane protein, ABC-2 family
+GSU1505	ABC transporter ATP-binding protein
+GSU1506	SAM-dependent methyltransferase, FkbM family
+GSU1507	ADP-heptose--lipopolysaccharide heptosyltransferase
+GSU1508	hypothetical protein
+GSU1509	glycosyltransferase
+GSU1510	glycosyltransferase
+GSU1510.1	glycosyltransferase
+GSU1511	glycosyltransferase
+GSU1512	hypothetical protein
+GSU1513	SAM-dependent methyltransferase, type 11
+GSU1514	ADP-heptose--lipopolysaccharide heptosyltransferase
+GSU1515	threonyl-tRNA ligase
+GSU1516	translation initiation factor IF-3
+GSU1517	50S ribosomal protein L35
+GSU1518	50S ribosomal protein L20
+GSU1519	phenylalanyl-tRNA ligase subunit alpha
+GSU1520	phenylalanyl-tRNA ligase subunit beta
+GSU1521	integration host factor subunit alpha
+GSU1522	MerR family transcriptional regulator
+GSU1523	5'(3')-nucleotidase/polyphosphatase
+GSU1524	protein-L-isoaspartate O-methyltransferase
+GSU1525	RNA polymerase sigma-38 factor, stationary phase
+GSU1526	adenine phosphoribosyltransferase
+GSU1527	hypothetical protein
+GSU1528	ABC transporter substrate-binding protein
+GSU1529	sensor histidine kinase response regulator, PAS domain-containing
+GSU1530	ATP phosphoribosyltransferase
+GSU1531	phosphoribosyl-AMP cyclohydrolase
+GSU1532	hypothetical protein
+GSU1533	exodeoxyribonuclease V subunit gamma
+GSU1534	exodeoxyribonuclease V subunit beta
+GSU1535	exodeoxyribonuclease V subunit alpha
+GSU1536	hypothetical protein
+GSU1537	peptidoglycan-binding ATPase
+GSU1538	cytochrome c
+GSU1539	exonuclease III
+GSU1540	lipoprotein
+GSU1541	transposase, Y1_Tnp domain-containing
+GSU1542	antitoxin, XRE family
+GSU3533	toxin, RelE family, partial
+GSU1544	hypothetical protein
+GSU1545	homoserine/homoserine lactone/threonine efflux protein
+GSU1546	hypothetical protein
+GSU1547	hypothetical protein
+GSU1548	hypothetical protein
+GSU1549	transglutaminase-like superfamily protein
+GSU1550	4-oxalocrotonate tautomerase superfamily protein
+GSU1551	HAMP and SpoIIE domain-containing protein
+GSU1552	hypothetical protein
+GSU1553	hypothetical protein
+GSU1554	diguanylate cyclase
+GSU1555	sensor histidine kinase response regulator, 5TM, PAS, PAS, GAF and PAS domain-containing
+GSU1556	lipoprotein
+GSU1557	mechanosensitive ion channel family protein
+GSU1558	hypothetical protein
+GSU1560	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU1561	membrane transglycosylase and transpeptidase PBP1A
+GSU1562	hypothetical protein
+GSU1564	Glu/Leu/Phe/Val dehydrogenase
+GSU1565	hypothetical protein
+GSU1566	2'-deoxyribonucleoside glycosidase
+GSU1567	membrane-bound zinc-dependent protease HtpX
+GSU1568	hypothetical protein
+GSU1569	transcriptional repressor
+GSU1570	TerC family membrane protein
+GSU1571	hypothetical protein
+GSU1572	RibD_C domain-containing protein
+GSU1573	protease, Abi superfamily
+GSU1574	hypothetical protein
+GSU1575	SAM-dependent methyltransferase
+GSU1576	short-chain dehydrogenase
+GSU1577	cob(I)yrinate a,c-diamide adenosyltransferase
+GSU1578	(R)-methylmalonyl-CoA mutase, adenosylcobamide-binding subunit
+GSU1579	protein kinase, ArgK family
+GSU1580	peptidoglycan L,D-transpeptidase
+GSU1581	adenosine-specific tRNA nucleotidyltransferase
+GSU1582	lysine--8-amino-7-oxononanoate aminotransferase
+GSU1583	dethiobiotin synthetase
+GSU1584	biotin synthase
+GSU1585	hypothetical protein
+GSU1586	transcription elongation factor NusA
+GSU1587	RNA-binding protein YlxRQ
+GSU1588	translation initiation factor IF-2
+GSU1589	ribosome-binding factor A
+GSU1590	phosphoesterase
+GSU1591	tRNA pseudouridine 55 synthase
+GSU1592	30S ribosomal protein S15
+GSU1593	polynucleotide phosphorylase/polyadenylase
+GSU1594	zinc-dependent peptidase
+GSU1595	deoxyuridine 5'-triphosphate nucleotidohydrolase
+GSU1596	tRNA (N6-threonylcarbamyl-A37) modification ATPase
+GSU1597	hypothetical protein
+GSU1598	hypothetical protein
+GSU1599	50S ribosomal protein L32
+GSU1600	phosphate acyltransferase
+GSU1601	3-oxoacyl-ACP synthase
+GSU1602	malonyl-CoA--acyl carrier protein transacylase
+GSU1603	3-oxoacyl-ACP reductase
+GSU1604	acyl carrier protein
+GSU1605	3-oxoacyl-(acyl carrier protein) synthase II
+GSU1606	ribose-5-phosphate isomerase B
+GSU1607	serine hydroxymethyltransferase
+GSU1608	hypothetical protein
+GSU1609	RND family efflux pump outer membrane protein
+GSU1610	RND family efflux pump membrane fusion lipoprotein
+GSU1611	RND family efflux pump inner membrane protein
+GSU1612	phosphoglyceromutase
+GSU1613	endonuclease III family protein
+GSU1614	Rossmann fold nucleotide-binding protein
+GSU1615	redox-active membrane protein
+GSU1616	DNA polymerase IV
+GSU1617	LexA family transcriptional repressor
+GSU1618	protein phosphoaspartate phosphatase CheX
+GSU1619	response receiver CheY
+GSU1620	hypothetical protein
+GSU1621	hypothetical protein
+GSU1622	D-lactate/L-lactate/glycolate transporter
+GSU1623	D-lactate/glycolate dehydrogenase, FAD-binding protein
+GSU1624	D-lactate/glycolate dehydrogenase, iron-sulfur cluster-binding protein
+GSU1626	GntR family transcriptional regulator
+GSU1627	preprotein translocase subunit SecG
+GSU3627	triosephosphate isomerase
+GSU3628	phosphoglycerate kinase
+GSU1629	glyceraldehyde-3-phosphate dehydrogenase, type I
+GSU1630	sensor histidine kinase, HAMP and PAS domain-containing
+GSU1631	metal-dependent hydrolase
+GSU1632	adenylosuccinate lyase
+GSU1633	small-conductance mechanosensitive ion channel
+GSU1634	phosphoribosylformylglycinamidine synthase, PurS and PurL domains
+GSU1635	phosphoribosylformylglycinamidine synthase
+GSU1636	glutamine--phosphoribosylpyrophosphate amidotransferase
+GSU1637	orotate phosphoribosyltransferase
+GSU1638	hypothetical protein
+GSU1639	Rrf2 family winged helix-turn-helix transcriptional regulator
+GSU1640	cytochrome bd menaquinol oxidase, subunit I
+GSU1641	cytochrome bd menaquinol oxidase, subunit II
+GSU1642	ferritin-like domain-containing protein
+GSU1643	response receiver-modulated diguanylate cyclase
+GSU1644	ABC transporter ATP-binding protein
+GSU1646	lipoprotein
+GSU1647	hypothetical protein
+GSU1648	cytochrome c
+GSU1649	cytochrome b/b6 complex, cytochrome b subunit
+GSU1650	cytochrome b/b6 complex, iron-sulfur cluster-binding subunit
+GSU1651	fructose-1,6-bisphosphatase
+GSU1652	hypothetical protein
+GSU1653	sigma-54-dependent transcriptional response regulator
+GSU1654	response receiver-modulated cyclic diguanylate phosphodiesterase
+GSU1655	response receiver sensor histidine kinase response regulator, PAS and GAF domain-containing
+GSU1656	response receiver sensor diguanylate cyclase, PAS domain-containing
+GSU1657	ComEC-like competence protein
+GSU1658	response receiver-modulated diguanylate cyclase
+GSU1659	histidyl-tRNA ligase
+GSU1660	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+GSU1661	hypothetical protein
+GSU1662	hypothetical protein
+GSU1663	nucleoside phosphorylase
+GSU1664	hypothetical protein
+GSU1665	rhomboid-like membrane protein
+GSU1666	iron-sulfur cluster-binding oxidoreductase
+GSU1667	hypothetical protein
+GSU1668	hypothetical protein
+GSU1669	hypothetical protein
+GSU1670	lipoprotein
+GSU1671	response receiver-modulated diguanylate cyclase
+GSU1672	hydroxypyruvate reductase
+GSU1673	hypothetical protein
+GSU1674	hypothetical protein
+GSU1676	hypothetical protein
+GSU1677	acyl-(acyl carrier protein) ligase, acyl carrier, [acyl-]glycerolphosphate acyltransferase fusion protein
+GSU1678	cation-translocating P-type ATPase
+GSU1679	hypothetical protein
+GSU1680	hypothetical protein
+GSU1681	BioD and DRTGG domain-containing protein
+GSU1682	lipoprotein
+GSU1683	hypothetical protein
+GSU1684	hypothetical protein
+GSU1685	metal-dependent phosphohydrolase, HDc domain-containing
+GSU1686	deoxycytidylate deaminase
+GSU1687	transcriptional regulator NrdR
+GSU1688	2, 5-diamino-6-(5'-phosphoribosylamino)-4-(3H)-pyrimidinone deaminase and 5-amino-6-(5'-phosphoribosylamino)uracil reductase
+GSU1689	riboflavin synthase subunit alpha
+GSU1690	3,4-dihydroxy-2-butanone-4-phosphate synthase and GTP cyclohydrolase II
+GSU1691	6,7-dimethyl-8-ribityllumazine synthase
+GSU1692	transcription antitermination factor NusB
+GSU1693	homoserine dehydrogenase
+GSU1694	HAD superfamily hydrolase
+GSU1695	threonine synthase
+GSU1696	MoxR family ATPase
+GSU3536	hypothetical protein
+GSU1697	transglutaminase/protease-like membrane protein
+GSU1698	hypothetical protein
+GSU1699	hypothetical protein
+GSU1700	bifunctional malic enzyme oxidoreductase/phosphotransacetylase
+GSU1701	bis-adenosyl-polyphosphate hydrolase, FHIT domain-containing
+GSU1702	ROK domain transcriptional regulator/sugar kinase
+GSU1703	6-phosphofructokinase
+GSU1704	GAF sensor methyl-accepting chemotaxis sensory transducer, class 40H
+GSU1705	3-methyl-2-oxobutanoate hydroxymethyltransferase
+GSU1706	pantoate--beta-alanine ligase
+GSU1707	pyridoxal-5'-phosphate-dependent decarboxylase
+GSU1708	metal-dependent hydrolase, subgroup D
+GSU1709	SsrA-binding protein
+GSU1710	integrase family protein
+GSU1711	integrative genetic element Gsu5, resolvase
+GSU1712	hypothetical protein
+GSU1713	AntA/AntB antirepressor domain-containing protein
+GSU1715	hypothetical protein
+GSU3538	hypothetical protein
+GSU3539	hypothetical protein
+GSU1716	adenosine-5'-phosphosulfate reductase, glutathione-dependent
+GSU1717	sulfate adenylyltransferase subunit 2
+GSU1718	sulfate adenylyltransferase, subunit 1
+GSU1719	hypothetical protein
+GSU1720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+GSU1721	7-cyano-7-deazaguanine synthase
+GSU1722	creatinine amidohydrolase superfamily protein
+GSU1723	mechanosensitive ion channel family protein
+GSU1724	DNA repair exonuclease SbcCD, D subunit
+GSU1725	DNA repair exonuclease SbcCD, C subunit
+GSU1726	hypothetical protein
+GSU1727	TraR/DksA family zinc finger transcriptional regulator
+GSU1728	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU1729	phenylacetate--coenzyme A ligase
+GSU1730	branched-chain amino acid ABC transporter ATP-binding protein
+GSU1731	branched-chain amino acid ABC transporter ATP-binding protein
+GSU1732	branched-chain amino acid ABC transporter membrane protein
+GSU1733	branched-chain amino acid ABC transporter membrane protein
+GSU1734	branched-chain amino acid ABC transporter substrate-binding protein
+GSU1735	branched-chain amino acid ABC transporter substrate-binding protein
+GSU1736	ACT domain-containing protein
+GSU1737	phenylacetate--coenzyme A ligase
+GSU1738	indolepyruvate oxidoreductase subunit beta
+GSU1739	indolepyruvate:ferredoxin oxidoreductase subunit alpha
+GSU1740	cytochrome c, 1 heme-binding site
+GSU1741	pppGpp 5'-phosphohydrolase and exopolyphosphatase
+GSU1742	sodium/phosphate symporter
+GSU1743	lipoprotein
+GSU1744	hypothetical protein
+GSU1745	peptidoglycan-binding protein, OmpA family
+GSU1746	integration host factor subunit beta
+GSU3540	hypothetical protein
+GSU1748	TrmA family RNA methyltransferase
+GSU1749	hypothetical protein
+GSU1750	translation initiation factor IF-1
+GSU1752	elongation factor P
+GSU1753	translation elongation factor P-lysine lysyltransferase
+GSU1754	translation elongation factor P-lysyl-lysine 2,3-aminomutase
+GSU1755	dihydroorotate dehydrogenase 1B
+GSU1756	dihydroorotate dehydrogenase, electron transfer subunit
+GSU1757	ribosomal protein S18 alanine N-acetyltransferase
+GSU1758	phosphoribosylaminoimidazole synthetase
+GSU1759	phosphoribosylglycinamide formyltransferase, folate-dependent
+GSU1760	cytochrome c
+GSU1761	lipoprotein cytochrome c
+GSU1762	lipoprotein
+GSU1763	DnaJ-like protein
+GSU1764	1-deoxy-D-xylulose-5-phosphate synthase
+GSU1765	trans-isoprenyl diphosphate synthase
+GSU1766	exodeoxyribonuclease VII small subunit
+GSU1767	exodeoxyribonuclease VII large subunit
+GSU1768	ParA family protein
+GSU1769	hypothetical protein
+GSU1770	hypothetical protein
+GSU1771	DNA/RNA-binding protein, partial
+GSU3634	transposase
+GSU1772	periplasmic carboxy-terminal processing protease lipoprotein
+GSU1773	zinc metalloendopeptidase M23 domain-containing protein
+GSU1774	cell division ABC transporter membrane protein FtsX
+GSU1775	cell division ATP-binding protein FtsE
+GSU1776	type II secretion system pseudopilin OxpG
+GSU1777	type II secretion system pseudopilin PulG
+GSU1778	type II secretion system secretin lipoprotein PulQ
+GSU1779	type II secretion system protein PulP
+GSU1780	type II secretion system protein PulO
+GSU1781	type II secretion system protein PulN
+GSU1782	type II secretion system ATPase PulM
+GSU1783	type II secretion system ATPase PulE
+GSU1784	type II secretion system inner membrane protein PulF
+GSU1785	cytochrome c
+GSU1786	cytochrome c
+GSU1787	cytochrome c
+GSU1788	NHL repeat domain-containing protein
+GSU1789	GDP-mannose--undecaprenyl-phosphate mannosyltransferase
+GSU1790	ATP-dependent Lon protease (La)
+GSU1791	ATP-dependent protease ATP-binding subunit ClpX
+GSU1792	ATP-dependent Clp protease proteolytic subunit
+GSU1793	trigger factor
+GSU1794	nucleoside-triphosphatase
+GSU1795	ribonuclease PH
+GSU1796	DHH domain-containing phosphoesterase
+GSU3541	hypothetical protein
+GSU1797	ComEA-like DNA-binding/uptake protein
+GSU1798	alpha-isopropylmalate/homocitrate synthase family transferase
+GSU1799	aspartate kinase
+GSU1800	nucleoid maintenance ATPase YjeE
+GSU1801	hypothetical protein
+GSU1802	ATP-binding protein YjeF
+GSU1803	4'-phosphopantetheinyl transferase
+GSU1804	pyridoxine 5'-phosphate synthase
+GSU1805	phosphoglucosamine mutase
+GSU1806	YbbR domain-containing protein
+GSU1807	diadenylate cyclase
+GSU1808	dihydropteroate synthase
+GSU1809	cell division ATP-dependent zinc protease FtsH
+GSU1810	tRNA(Ile) lysidine-34 synthase
+GSU1811	SPOR domain-containing protein
+GSU1812	arginyl-tRNA ligase
+GSU1813	hypothetical protein
+GSU1814	septum formation initiator family protein
+GSU1815	UDP-glucuronate decarboxylase
+GSU1816	UDP-glucose 6-dehydrogenase
+GSU1817	outer membrane lipoprotein, Slp family
+GSU1818	cofactor-independent phosphoglycerate mutase
+GSU1819	integrase/recombinase XerD
+GSU1820	nitrogen regulatory protein P-II uridylyltransferase, GlnD
+GSU1821	N-acetylmuramyl-L-alanine amidase
+GSU1822	DNA mismatch repair protein MutS
+GSU1824	hypothetical protein
+GSU1825	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+GSU1826	lytic transglycosylase domain-containing protein
+GSU1827	L-aspartate oxidase
+GSU1828	chorismate mutase
+GSU1829	hypothetical protein
+GSU1830	MEMO-like protein
+GSU1831	chromosome segregation and condensation protein ScpB
+GSU1832	chromosome segregation and condensation protein ScpA
+GSU1833	tryptophanyl-tRNA ligase
+GSU1834	protease, S2P-M50-like family 1
+GSU1835	glutamine synthetase, type I
+GSU1836	nitrogen regulatory protein P-II
+GSU1837	zinc metalloendopeptidase
+GSU1838	ATP-dependent helicase HrpB
+GSU1839	phosphatase/phosphohexomutase-like hydrolase
+GSU1840	membrane-associated phosphatase, PAP2_like_5 family
+GSU1841	hypothetical protein
+GSU1842	periplasmic polysaccharide biosynthesis/export protein
+GSU1843	RNA exonuclease
+GSU1844	IPT/TIG domain-containing protein
+GSU1845	hypothetical protein
+GSU1847	hypothetical protein
+GSU1848	transposase of ISGsu7
+GSU1849	hypothetical protein
+GSU1850	hypothetical protein
+GSU3542	teichoic acid biosynthesis glycosyltransferase
+GSU1851	WbuB-like family glycosyltransferase
+GSU1852	hypothetical protein
+GSU3543	acyltransferase
+GSU1853	hypothetical protein
+GSU1854	UDP-N-acetyl-D-mannosamine dehydrogenase
+GSU1855	polysaccharide chain length determinant protein
+GSU3545	hypothetical protein
+GSU3546	hypothetical protein
+GSU3547	hypothetical protein
+GSU1857	hypothetical protein
+GSU1858	IPT/TIG domain-containing protein
+GSU1859	2-oxoacid:ferredoxin oxidoreductase subunit gamma
+GSU1860	2-oxoacid:ferredoxin oxidoreductase, thiamin diphosphate-binding subunit
+GSU1861	2-ketoisovalerate ferredoxin reductase
+GSU1862	2-oxoacid:ferredoxin oxidoreductase, ferredoxin subunit
+GSU1863	Ros/MucR family transcriptional regulator
+GSU1864	KsgA/Dim1 family 16S ribosomal RNA methyltransferase
+GSU1865	UGMP family protein
+GSU1866	PhoH-related ATPase
+GSU1867	lipoprotein
+GSU1868	cysteine desulfurase
+GSU1869	lipoprotein
+GSU1870	sensor diguanylate cyclase, GAF domain-containing
+GSU1871	ribonucleotide-diphosphate reductase subunit alpha
+GSU1872	hypothetical protein
+GSU1873	oligoendopeptidase F
+GSU1874	hypothetical protein
+GSU1875	S-adenosyl-L-homocysteine hydrolase
+GSU1876	hypothetical protein
+GSU1877	oxidoreductase, 2-nitropropane dioxygenase family
+GSU1878	sensor histidine kinase
+GSU1879	winged-helix transcriptional response regulator
+GSU1880	S-adenosylmethionine synthetase
+GSU1881	phosphoenolpyruvate--protein phosphotransferase
+GSU1882	phosphocarrier protein HPr
+GSU1883	phosphotransferase system, mannose-type, protein IIA
+GSU1884	glmZ(sRNA)-inactivating NTPase
+GSU1885	HPr kinase/phosphorylase
+GSU1886	ribosomal subunit interface-associated sigma-54 modulation protein RaiA
+GSU1887	RNA polymerase sigma-54 factor RpoN
+GSU1888	lipopolysaccharide ABC transporter ATP-binding protein
+GSU1889	lipopolysaccharide ABC transporter periplasmic protein LptA
+GSU1890	lipopolysaccharide ABC transporter periplasmic protein LptC
+GSU1891	response receiver-modulated cyclic diguanylate phosphodiesterase
+GSU1892	3-deoxy-D-manno-octulosonate-8-phosphate phosphatase
+GSU1893	arabinose-5-phosphate isomerase
+GSU1894	2-dehydro-3-deoxyphosphooctonate aldolase
+GSU1895	CTP synthetase
+GSU1896	3-deoxy-manno-octulosonate cytidylyltransferase
+GSU1897	nucleoside phosphorylase
+GSU1898	hypothetical protein
+GSU1899	ABC transporter substrate-binding lipoprotein
+GSU1900	ABC transporter
+GSU1901	hypothetical protein
+GSU1902	isopropylmalate/citramalate isomerase, small subunit
+GSU1903	3-isopropylmalate dehydratase large subunit
+GSU1904	Rossmann fold nucleotide-binding protein
+GSU1905	cold shock DNA/RNA-binding protein
+GSU1906	2-isopropylmalate synthase
+GSU1907	CDP-diacylglycerol--serine O-phosphatidyltransferase
+GSU1908	phosphatidylserine decarboxylase
+GSU1909	ketol-acid reductoisomerase
+GSU1910	acetolactate synthase 3 regulatory subunit
+GSU1911	acetolactate synthase large subunit
+GSU1912	dihydroxy-acid dehydratase
+GSU1913	nucleoid maintenance protease YeaZ
+GSU1914	membrane-associated zinc metalloprotease RseP
+GSU1915	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+GSU1916	phosphatidate cytidylyltransferase
+GSU1917	undecaprenyl pyrophosphate synthase
+GSU1918	ribosome recycling factor
+GSU1919	uridylate kinase
+GSU1920	elongation factor Ts
+GSU1921	30S ribosomal protein S2
+GSU1922	lipopolysaccharide ABC transporter membrane protein LptF
+GSU1923	lipopolysaccharide ABC transporter membrane protein LptG
+GSU1924	IPT/TIG domain-containing protein
+GSU1925	cytidylate kinase-like domain phospholipid-binding protein
+GSU1926	hypothetical protein
+GSU1927	response receiver sensor diguanylate cyclase/phosphodiesterase, PAS domain-containing
+GSU1928	sensor histidine kinase response regulator, HAMP and Hpt domain-containing
+GSU1929	MgtC family protein
+GSU1930	GTP-binding domain-containing protein
+GSU1931	hypothetical protein
+GSU1932	SPOR domain-containing protein
+GSU1933	elongation factor G
+GSU1934	pantothenate kinase
+GSU1935	biotin operon repressor and biotin--acetyl-CoA carboxylase ligase
+GSU1936	quinolinate phosphoribosyltransferase, decarboxylating
+GSU1937	nucleotide cyclase
+GSU1938	lipoprotein
+GSU1939	sensor histidine kinase cyclic nucleotide phosphodiesterase
+GSU1940	sigma-54-dependent transcriptional response regulator
+GSU1941	sensor histidine kinase, GAF domain-containing
+GSU1942	UDP-N-acetyl-D-galactosamine 6-dehydrogenase
+GSU1943	PEP motif-containing protein exosortase substrate
+GSU1944	PEP motif-containing protein exosortase substrate
+GSU1945	repeat-containing protein
+GSU1947	hypothetical protein
+GSU1948	hypothetical protein
+GSU1949	PEP motif-containing protein exosortase substrate
+GSU1950	adenylyltransferase
+GSU1951	poly-gamma-glutamate capsule biosynthesis protein
+GSU1952	glycosyltransferase
+GSU1953	asparagine synthetase
+GSU1954	O-antigen polymerase, partial
+GSU3631	integrase
+GSU1955	adenylyltransferase
+GSU1956	GNAT family acetyltransferase
+GSU1957	WbnK-like family glycosyltransferase
+GSU1958	polysaccharide deacetylase domain-containing protein
+GSU1959	exopolysaccharide biosynthesis protein
+GSU1960	serine O-acetyltransferase
+GSU1961	glycosyltransferase
+GSU1962	glycosyltransferase
+GSU1963	undecaprenyl-diphospho-oligosaccharide flippase
+GSU1964	hypothetical protein
+GSU1965	polysaccharide pyruvyl transferase-related domain-containing protein
+GSU1966	hypothetical protein
+GSU1967	hypothetical protein
+GSU1968	nucleotidyltransferase
+GSU1969	hypothetical protein
+GSU1970	N-acetylneuraminate synthase
+GSU1971	hypothetical protein
+GSU1972	N-acetylneuraminate cytidylyltransferase
+GSU1973	acyltransferase
+GSU1974	aminotransferase, AHBA_syn family
+GSU1975	NAD-dependent nucleoside diphosphate-sugar epimerase/dehydratase
+GSU1976	YqgM-like family glycosyltransferase
+GSU1977	CESA-like subfamily glycosyltransferase
+GSU1978	exopolysaccharide synthesis periplasmic protein I
+GSU1979	exopolysaccharide synthesis membrane protein H (exosortase)
+GSU1980	polysaccharide deacetylase
+GSU1981	hypothetical protein
+GSU1982	ATPase
+GSU1983	protein tyrosine kinase
+GSU1984	polysaccharide chain length determinant protein
+GSU1985	periplasmic polysaccharide biosynthesis/export protein
+GSU1986	undecaprenyl-phosphate glycosylphosphotransferase
+GSU1987	lipoprotein
+GSU1988	hypothetical protein
+GSU1989	sigma-54-dependent transcriptional response regulator
+GSU1990	sensor histidine kinase NtrB-like protein
+GSU1991	protease, Abi superfamily
+GSU1992	CarD family transcriptional regulator
+GSU1994	PEP motif-containing protein exosortase substrate
+GSU1995	hypothetical protein
+GSU1996	cytochrome c
+GSU1997	iron-sulfur cluster-binding oxidoreductase, cyano_FeS_chp family
+GSU1998	hypothetical protein
+GSU1999	RNA-binding protein Hfq
+GSU2000	tRNA delta(2)-isopentenylpyrophosphate transferase
+GSU2001	DNA mismatch repair protein
+GSU2002	FAD-dependent pyridine nucleotide-disulfide oxidoreductase family protein
+GSU2003	hypothetical protein
+GSU2004	UbiD family decarboxylase
+GSU2005	branched-chain amino acid ABC transporter substrate-binding protein
+GSU2006	branched-chain amino acid ABC transporter membrane protein
+GSU2007	branched-chain amino acid ABC transporter membrane protein
+GSU2008	branched-chain amino acid ABC transporter ATP-binding protein
+GSU2009	branched-chain amino acid ABC transporter ATP-binding protein
+GSU2010	hypothetical protein
+GSU2011	nitrogen fixation iron-sulfur cluster assembly cysteine desulfurase NifS
+GSU2012	nitrogen fixation iron-sulfur cluster assembly protein NifU
+GSU2013	phosphoglucomutase/phosphomannomutase family protein
+GSU2014	hypothetical protein
+GSU2015	NUDIX hydrolase
+GSU2016	sensor diguanylate cyclase/phosphodiesterase, PAS domain-containing
+GSU2017	futalosine synthase
+GSU2018	glycine cleavage system lipoyl carrier protein GcvH
+GSU2019	acetyl-CoA carboxylase, biotin carboxylase component
+GSU2020	acetyl-CoA carboxylase, biotin carboxyl carrier protein
+GSU2021	prolidase family protein
+GSU2022	3-dehydroquinate dehydratase
+GSU2023	GTPase-activating protein
+GSU2024	hypothetical protein
+GSU2025	3-dehydroquinate synthase
+GSU2026	shikimate kinase
+GSU2027	chorismate synthase
+GSU2028	type IV pilus secretin lipoprotein PilQ
+GSU2029	type IV pilus assembly lipoprotein PilP
+GSU2030	type IV pilus biogenesis protein PilO
+GSU2031	type IV pilus biogenesis protein PilN
+GSU2032	type IV pilus biogenesis ATPase PilM
+GSU2033	XRE family transcriptional regulator
+GSU2034	type IV pilus minor pilin PilX
+GSU2035	type IV pilus minor pilin PilW
+GSU2036	type IV pilus minor pilin PilV
+GSU2037	type IV pilus minor pilin FimU
+GSU2038	type IV pilus assembly protein PilY
+GSU2039	type IV pilus assembly protein PilL
+GSU3548	type IV pilus minor pilin PilE
+GSU2041	sigma-54-dependent transcriptional response regulator
+GSU2042	sensor histidine kinase, HAMP domain-containing
+GSU2043	type IV prepilin-like proteins leader peptide processing enzyme
+GSU2044	sensor diguanylate cyclase/phosphodiesterase, GAF and PAS domain-containing
+GSU2045	valyl-tRNA ligase
+GSU2046	response regulator
+GSU2047	metal-dependent hydrolase
+GSU2048	hypothetical protein
+GSU2049	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+GSU2050	preprotein translocase subunit SecA
+GSU2051	phenylacetate--coenzyme A ligase
+GSU2052	indolepyruvate oxidoreductase subunit B
+GSU2053	indolepyruvate:ferredoxin oxidoreductase subunit alpha
+GSU2055	TRAP proton/solute symporter, periplasmic substrate-binding protein
+GSU2056	TRAP transporter small membrane protein component
+GSU2057	TRAP transporter large membrane protein
+GSU2059	protein phosphoaspartate phosphatase CheX
+GSU2060	zinc protease PmbA
+GSU2061	acetyltransferase
+GSU2062	response receiver-modulated nucleotide cyclase
+GSU2063	metal-dependent phosphohydrolase, HDOD domain-containing
+GSU3549	hypothetical protein
+GSU2064	DNA repair ATPase RecN
+GSU2065	inorganic polyphosphate/ATP-NAD kinase
+GSU2066	glycogen phosphorylase
+GSU2067	recombination factor protein RarA
+GSU2068	6-phosphofructokinase
+GSU2069	HAD superfamily hydrolase
+GSU2070	HNH endonuclease family protein
+GSU2071	ribonuclease H
+GSU2072	[acyl-]glycerolphosphate acyltransferase
+GSU2073	dystroglycan-type cadherin-like protein
+GSU2074	PpiC-type peptidylprolyl cis-trans isomerase
+GSU2075	subtilase family serine protease
+GSU2076	cytochrome c
+GSU2077	hypothetical protein
+GSU2078	cell shape-determining protein RodA
+GSU2079	peptidoglycan transpeptidase
+GSU2080	cell shape-determining protein MreD
+GSU2081	rod shape-determining protein MreC
+GSU2082	nucleoside diphosphate-sugar dehydratase
+GSU2083	glucose-1-phosphate thymidylyltransferase
+GSU2084	D-glycero-D-mannoheptose-1,7-bisphosphate phosphatase
+GSU2085	D-glycero-D-mannoheptose-7-phosphate kinase and D-glycero-D-mannoheptose-1-phosphate adenylyltransferase
+GSU2086	hypothetical protein
+GSU2087	phosphoheptose isomerase
+GSU2088	glycosyltransferase
+GSU2089	rod shape-determining protein MreB
+GSU2090	peptidyl-prolyl cis-trans isomerase
+GSU2091	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+GSU2092	hypothetical protein
+GSU2093	ABC transporter ATP-binding protein
+GSU2094	response receiver-modulated cyclic diguanylate phosphodiesterase
+GSU3550	hypothetical protein
+GSU3551	hypothetical protein
+GSU2095	FAD-dependent pyridine nucleotide-disulfide oxidoreductase family protein
+GSU2096	carbon monoxide dehydrogenase-associated iron-sulfur cluster-binding oxidoreductase CooF
+GSU2097	carbon monoxide dehydrogenase accessory protein CooC
+GSU2098	carbon monoxide dehydrogenase, catalytic subunit
+GSU2099	sensor transcriptional regulator
+GSU2100	catalase/hydroperoxidase HPI(I)
+GSU3552	hypothetical protein
+GSU2101	glycerol dehydratase
+GSU2102	glycerol dehydratase-activating enzyme
+GSU2104	lipoprotein
+GSU2105	hypothetical protein
+GSU2106	PglZ domain-containing protein
+GSU2107	hypothetical protein
+GSU3553	hypothetical protein
+GSU2108	hypothetical protein
+GSU2109	hypothetical protein
+GSU2110	hypothetical protein
+GSU3554	hypothetical protein
+GSU2112	hypothetical protein
+GSU2113	transcriptional regulator
+GSU2114	hypothetical protein
+GSU2115	hypothetical protein
+GSU3555	hypothetical protein
+GSU3556	hypothetical protein
+GSU2116	hypothetical protein
+GSU2117	helix-turn-helix DNA-binding protein
+GSU2118	integrative genetic element Gsu21, integrase
+GSU2119	integrative genetic element Gsu56, integrase
+GSU2120	integration host factor subunit alpha
+GSU2121	lytic transglycosylase
+GSU3557	hypothetical protein
+GSU2122	TraG family protein
+GSU2123	metal-dependent phosphohydrolase
+GSU2124	thioredoxin-related domain-containing protein
+GSU2125	TraH domain-containing protein
+GSU2127	hypothetical protein
+GSU2128	transposase of ISGsu7
+GSU2129	hypothetical protein
+GSU3559	hypothetical protein
+GSU2131	hypothetical protein
+GSU2132	hypothetical protein
+GSU2133	lipoprotein
+GSU2134	nitrogen regulatory protein P-II
+GSU2135	RND family efflux pump inner membrane protein
+GSU2136	RND family efflux pump membrane fusion protein
+GSU2137	RND family efflux pump outer membrane protein
+GSU3560	hypothetical protein
+GSU3561	hypothetical protein
+GSU3562	lipoprotein
+GSU3563	hypothetical protein
+GSU2143	hypothetical protein
+GSU2144	sensor histidine kinase, HAMP domain-containing
+GSU2145	winged-helix transcriptional response regulator
+GSU2146	hypothetical protein
+GSU2147	heavy metal-translocating P-type ATPase
+GSU2148	hypothetical protein
+GSU2149	ArsR family transcriptional regulator
+GSU3564	hypothetical protein
+GSU3565	hypothetical protein
+GSU2151	ssDNA-binding protein
+GSU2152	hypothetical protein
+GSU2153	hypothetical protein
+GSU2154	hypothetical protein
+GSU2155	hypothetical protein
+GSU2156	hypothetical protein
+GSU2157	hypothetical protein
+GSU2158	ATPase
+GSU2159	hypothetical protein
+GSU2160	hypothetical protein
+GSU2161	hypothetical protein
+GSU2162	hypothetical protein
+GSU2163	hypothetical protein
+GSU2164	hypothetical protein
+GSU2165	hypothetical protein
+GSU2166	hypothetical protein
+GSU2167	CHC2 zinc finger domain-containing protein
+GSU2168	hypothetical protein
+GSU2170	hypothetical protein
+GSU2171	transposase of ISGsu7
+GSU2172	peptidoglycan-binding protein, OmpA family
+GSU2173	hypothetical protein
+GSU2174	hypothetical protein
+GSU2175	TrfA family protein
+GSU2176	hypothetical protein
+GSU2177	RNA polymerase sigma factor
+GSU3566	hypothetical protein
+GSU2178	hypothetical protein
+GSU2180	transposase of ISGsu1, IS4 family
+GSU2182	hypothetical protein
+GSU2183	Fic family protein
+GSU2184	cytidine-specific tRNA nucleotidyltransferase
+GSU2185	FlgM family protein
+GSU2186	hypothetical protein
+GSU2187	ABC transporter membrane protein
+GSU2188	ABC transporter ATP-binding protein
+GSU2189	sensor histidine kinase
+GSU2190	aldolase domain-containing protein
+GSU2191	aldehyde:ferredoxin oxidoreductase, tungsten-containing
+GSU2192	HAD superfamily hydrolase
+GSU2193	ferritin-like domain-containing protein
+GSU2194	GMP synthase
+GSU2195	inosine-5'-monophosphate dehydrogenase
+GSU2196	M42 family aminopeptidase
+GSU2197	hypothetical protein
+GSU2198	(dimethylallyl)adenosine tRNA methylthiotransferase
+GSU2199	hypothetical protein
+GSU2200	hypothetical protein
+GSU2201	cytochrome c
+GSU2202	LysR family transcriptional regulator
+GSU2203	lipoprotein cytochrome c
+GSU2204	outer membrane channel cytochrome c, 1 heme-binding site
+GSU2205	hypothetical protein
+GSU2206	30S ribosomal protein S20
+GSU2207	DNA polymerase III subunit delta
+GSU2208	lipopolysaccharide biogenesis outer membrane chaperone lipoprotein LptE
+GSU2209	leucyl-tRNA ligase
+GSU2210	cytochrome c
+GSU2211	hypothetical protein
+GSU2212	response receiver CheY associated with MCPs of class 40H
+GSU2213	GAF domain-containing protein
+GSU2214	protein glutamate methylesterase CheB associated with MCPs of class 40H, response receiver domain-containing
+GSU2215	protein glutamate methyltransferase CheR associated with MCPs of class 40H
+GSU2216	HEAT-like repeat-containing protein
+GSU2217	response receiver CheY associated with MCPs of class 40H
+GSU2218	scaffold protein CheW associated with MCPs of class 40H
+GSU2219	response receiver CheY associated with MCPs of class 40H
+GSU2220	scaffold protein CheW associated with MCPs of class 40H
+GSU2221	ATPase
+GSU2222	sensor histidine kinase CheA associated with MCPs of class 40H
+GSU2223	response receiver CheY associated with MCPs of class 40H
+GSU2224	response regulator, PATAN and FRGAF domain-containing
+GSU2225	GTP-binding protein Der
+GSU2226	GTPase Era
+GSU2227	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU2228	ribonuclease III
+GSU2229	thymidylate kinase
+GSU2230	DNA polymerase III subunit delta'
+GSU2231	PSP1 superfamily protein
+GSU2232	methionyl-tRNA ligase
+GSU2233	hypothetical protein
+GSU2234	50S ribosomal protein L28
+GSU2235	endoribonuclease L-PSP
+GSU2236	GTP/GDP 3'-pyrophosphokinase and (p)ppGpp 3'-pyrophosphohydrolase
+GSU2237	DNA-directed RNA polymerase subunit omega
+GSU2238	guanylate kinase
+GSU2239	hypothetical protein
+GSU2240	UDP-glucose/UDP-N-acetylglucosamine 4-epimerase
+GSU2241	UDP-galacturonate 4-epimerase
+GSU2242	ADP-heptose--lipopolysaccharide heptosyltransferase
+GSU2243	UDP-N-acetylglucosamine 2-epimerase
+GSU2244	glycosyltransferase
+GSU2245	UDP-2-acetamido-2,6-dideoxy-beta-L-mannose 2-epimerase
+GSU2246	bifunctional UDP-N-acetylglucosamine 4,6-dehydratase/UDP-2-acetamido-2, 6-dideoxy-alpha-D-xylo-4-hexulose 5-epimerase
+GSU2247	bifunctional UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-4-hexulose 3-epimerase/UDP-2-acetamido-2, 6-dideoxy-beta-L-lyxo-4-hexulose 4-reductase
+GSU2248	hypothetical protein
+GSU2249	hypothetical protein
+GSU2250	glycosyltransferase
+GSU2251	hypothetical protein
+GSU2252	ADP-heptose--lipopolysaccharide heptosyltransferase
+GSU2253	YqgM-like family glycosyltransferase
+GSU2254	UDP-glucose--lipopolysaccharide core heptose I 4-beta-glucosyltransferase
+GSU2255	hypothetical protein
+GSU2256	ADP-heptose--lipopolysaccharide heptosyltransferase
+GSU2257	hypothetical protein
+GSU2258	tetraacyldisaccharide-1-phosphate 4'-kinase
+GSU2259	CMP-3-deoxy-D-manno-octulosonate--lipid A tetraacyldisaccharide 3-deoxy-D-manno-octulosonate transferase
+GSU2260	phospholipid/lipopolysaccharide-flipping ABC transporter MsbA
+GSU2261	lipid-A-disaccharide synthase
+GSU2262	UDP-2-acetamido-2-deoxy-alpha-D-ribo- hexopyranos-3-ulose 3-aminotransferase
+GSU2263	UDP-N-acetylglucosamine 3-dehydrogenase, NAD-dependent
+GSU2264	UDP-N-acetylglucosamine acyltransferase
+GSU2265	(3R)-hydroxymyristoyl-ACP dehydratase
+GSU2266	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+GSU2267	OmpH-like outer membrane protein
+GSU2268	outer membrane protein assembly complex protein YaeT
+GSU2269	ABC transporter ATP-binding protein
+GSU2270	lipoprotein release ABC transporter membrane protein
+GSU2271	lysyl-tRNA ligase
+GSU2272	lipoprotein
+GSU3567	hypothetical protein
+GSU2274	peptidylprolyl cis-trans isomerase lipoprotein, FKBP-type
+GSU2275	EVE domain-containing protein
+GSU2276	hypothetical protein
+GSU2277	peptidoglycan-binding lipoprotein, SPOR and NLPC_P60 domain-containing
+GSU2278	peptide chain release factor 2
+GSU2281	apolipoprotein N-acyltransferase
+GSU2282	CBS and CorC_HlyC domain-containing protein
+GSU2283	diacylglycerol kinase-like protein
+GSU2284	hypothetical protein
+GSU2285	membrane-associated metal-dependent phosphohydrolase, HDc domain-containing
+GSU2286	enolase
+GSU2287	response regulator
+GSU2288	sensor histidine kinase, HAMP domain-containing
+GSU2289	nicotinate phosphoribosyltransferase
+GSU2290	nicotinamidase
+GSU2291	phospho-2-dehydro-3-deoxyheptonate aldolase
+GSU2292	alanine dehydrogenase
+GSU2293	hypothetical protein
+GSU2294	cytochrome c
+GSU2295	hypothetical protein
+GSU2296	metal-dependent phosphohydrolase, HDOD domain-containing
+GSU2297	sensor histidine kinase, Cache_1, HAMP and PAS domain-containing
+GSU2298	hypothetical protein
+GSU2299	cytochrome c
+GSU2300	hypothetical protein
+GSU2301	hypothetical protein
+GSU2302	HAD superfamily hydrolase
+GSU2303	sodium/proton antiporter family protein
+GSU2304	hypothetical protein
+GSU2305	peptidoglycan-binding outer membrane lipoprotein Pal, OmpA family
+GSU2306	5-carboxyamino-1-(5-phosphoribosyl)imidazole carboxymutase
+GSU2307	carbonic anhydrase
+GSU2308	malate oxidoreductase, NAD-dependent
+GSU2309	metal-dependent hydrolase
+GSU2310	YeeE/YedE family lipoprotein
+GSU2311	YeeE/YedE family protein
+GSU2312	proton/sulfate symporter family protein
+GSU2313	response receiver-modulated diguanylate cyclase
+GSU2314	sensor histidine kinase response regulator
+GSU2315	hypothetical protein
+GSU2316	small-conductance mechanosensitive ion channel
+GSU2317	membrane protein
+GSU2318	cyclopropane-fatty-acyl-phospholipid synthase
+GSU2319	hypothetical protein
+GSU2320	hypothetical protein
+GSU2321	hypothetical protein
+GSU2322	hypothetical protein
+GSU2323	hypothetical protein
+GSU2324	hypothetical protein
+GSU2325	cation-translocating P-type ATPase
+GSU2326	outer membrane lipoprotein, lipocalin family
+GSU2327	hypothetical protein
+GSU2328	hypothetical protein
+GSU2329	cyclopropane-fatty-acyl-phospholipid synthase
+GSU2330	hypothetical protein
+GSU2331	hypothetical protein
+GSU2332	cytidylate kinase-like domain-containing protein
+GSU2333	hypothetical protein
+GSU2335	universal stress protein Usp
+GSU2336	trehalose-6-phosphatase
+GSU2337	trehalose-6-phosphate synthase
+GSU2338	monovalent cation/H+ antiporter subunit G
+GSU2339	monovalent cation/H+ antiporter subunit F
+GSU2340	monovalent cation/H+ antiporter subunit E
+GSU2341	monovalent cation/H+ antiporter subunit D
+GSU2342	monovalent cation/H+ antiporter subunit C
+GSU2343	sodium/proton antiporter complex Mrp, protein B
+GSU2344	monovalent cation/H+ antiporter subunit A
+GSU2345	serine phosphatase, SpoIIE domain-containing
+GSU2346	hypothetical protein
+GSU2347	hypothetical protein
+GSU2348	hypothetical protein
+GSU2350	potassium uptake protein, Kup system
+GSU2351	cation-translocating P-type ATPase
+GSU2352	sodium/solute symporter family protein
+GSU2353	hypothetical protein
+GSU2354	IclR family transcriptional regulator
+GSU3571	hypothetical protein
+GSU2355	hypothetical protein
+GSU3572	hypothetical protein
+GSU2357	mechanosensitive ion channel family protein
+GSU2358	maltooligosyltrehalose trehalohydrolase
+GSU2359	glycoside hydrolase
+GSU2360	maltooligosyl trehalose synthase
+GSU2361	trehalose/maltose transglucosylase and maltokinase
+GSU2362	MarR family winged helix-turn-helix transcriptional regulator
+GSU2363	voltage-gated chloride channel protein
+GSU2364	mannose-6-phosphate isomerase
+GSU2365	dTDP-4-dehydrorhamnose reductase
+GSU2366	dTDP-glucose 4,6-dehydratase
+GSU2367	lipopolysaccharide biogenesis outer membrane protein LptD
+GSU2368	folylpolyglutamate synthetase
+GSU2370	acetyl-CoA carboxylase, carboxyl transferase subunit beta
+GSU2371	tryptophan synthase subunit alpha
+GSU2372	methyl-accepting chemotaxis sensory transducer, class 40+24H
+GSU2373	WHy domain-containing lipoprotein
+GSU2374	lytic transglycosylase lipoprotein
+GSU2375	tryptophan synthase subunit beta
+GSU2376	ADP-ribose-binding protein
+GSU2377	hypothetical protein
+GSU3573	hypothetical protein
+GSU2378	N-(5'-phosphoribosyl)anthranilate isomerase
+GSU2379	tryptophan synthase subunit beta
+GSU2380	Indole-3-glycerol phosphate synthase
+GSU2381	anthranilate phosphoribosyltransferase
+GSU2382	anthranilate synthase component II
+GSU2383	anthranilate synthase, catalytic subunit
+GSU2384	sensor histidine kinase, GAF domain-containing
+GSU2385	hypothetical protein
+GSU2386	UroD-like decarboxylase/methyltransferase
+GSU2387	corrinoid-binding domain-containing protein
+GSU2388	sensor histidine kinase, HAMP and PAS domain-containing
+GSU2389	ABC transporter substrate-binding lipoprotein
+GSU2390	heat shock protein 90
+GSU2391	transposase of ISGsu7
+GSU2392	hypothetical protein
+GSU3575	hypothetical protein
+GSU3576	lipoprotein
+GSU3578	hypothetical protein
+GSU3579	hypothetical protein
+GSU2395	hypothetical protein
+GSU2396	transposase, Y1_Tnp domain-containing
+GSU2397	hypothetical protein
+GSU2398	helix-turn-helix XRE domain-containing protein
+GSU2399	HipA domain-containing protein
+GSU3580	lipoprotein
+GSU2400	acetoacetate decarboxylase family protein
+GSU2401	sensor histidine kinase response regulator, PAS, GAF and PAS domain-containing
+GSU2402	hypothetical protein
+GSU2403	hypothetical protein
+GSU2404	pentapeptide repeat-containing protein
+GSU2405	hypothetical protein
+GSU2406	DnaJ domain-containing protein
+GSU2407	hypothetical protein
+GSU2408	ATP-independent chaperone
+GSU2409	ATP-independent chaperone
+GSU2410	ATP-independent chaperone
+GSU2411	SAM-binding protein
+GSU2412	hypothetical protein
+GSU2413	ABC transporter ATP-binding protein
+GSU2414	hypothetical protein
+GSU2415	SGNH-hydrolase lipoprotein, lysophospholipase L1-like subgroup
+GSU2416	scaffold protein CheW associated with MCPs of classes 40H and 40+24H
+GSU2417	hypothetical protein
+GSU2418	methyl viologen-reducing hydrogenase, small subunit
+GSU2419	methyl viologen-reducing hydrogenase, large subunit
+GSU2420	methyl viologen-reducing hydrogenase-associated ferredoxin
+GSU2421	hypothetical protein
+GSU2422	methyl viologen-reducing hydrogenase maturation protease
+GSU2423	methyl-accepting chemotaxis sensory transducer
+GSU2424	hypothetical protein
+GSU2425	O-acetyl-L-homoserine sulfhydrylase
+GSU2426	McbC-like oxidoreductase for polypeptide thioester cyclization
+GSU2427	hypothetical protein
+GSU2428	pyruvate carboxylase
+GSU2429	PpiC-type peptidylprolyl cis-trans isomerase
+GSU2430	hypothetical protein
+GSU2431	membrane-bound serine protease NfeD, long form
+GSU2432	lipoprotein cytochrome c, 1 heme-binding site
+GSU2433	ATP-dependent protease
+GSU2434	octanoyl-(acyl carrier protein)--protein octanoyltransferase
+GSU2435	branched-chain alpha-keto acid dehydrogenase E2 subunit
+GSU2436	pyruvate dehydrogenase E1 component subunit beta
+GSU2437	hypothetical protein
+GSU2438	antitoxin, Phd family
+GSU2439	toxin, RelE family
+GSU2440	hypothetical protein
+GSU2441	SAM-dependent methyltransferase
+GSU2442	RelA/SpoT domain-containing protein
+GSU3581	hypothetical protein
+GSU3582	hypothetical protein
+GSU2443	pyruvate dehydrogenase E1 component subunit alpha
+GSU2444	periplasmic substrate-binding histidine kinase
+GSU2445	aconitate hydratase
+GSU2446	dihydrolipoamide dehydrogenase
+GSU2447	hypothetical protein
+GSU2448	2-oxoglutarate dehydrogenase, E2 protein, dihydrolipoamide succinyltransferase
+GSU2449	2-oxoglutarate dehydrogenase E1 component
+GSU2450	hydrolase
+GSU2451	peptide methionine sulfoxide reductase, R-isomer-specific
+GSU2452	copper-translocating P-type ATPase
+GSU2453	hypothetical protein
+GSU2454	hypothetical protein
+GSU2455	hypothetical protein
+GSU2456	UDP-N-2, O-3-di-(3-hydroxyacyl)glucosamine/UDP-N-2, N-3-di-(3-hydroxyacyl)glucosediamine pyrophosphatase
+GSU2457	hypothetical protein
+GSU2458	transpeptidase
+GSU2460	ribonuclease BN-like protein
+GSU2461	hypothetical protein
+GSU3583	hypothetical protein
+GSU2462	homoserine O-acetyltransferase
+GSU2463	glycosyltransferase
+GSU2465	metal-dependent hydrolase
+GSU2466	hypothetical protein
+GSU2467	integrase domain-containing protein
+GSU2468	hypothetical protein
+GSU3584	hypothetical protein
+GSU2469	hypothetical protein
+GSU2470	hypothetical protein
+GSU2471	RNA-directed DNA polymerase and maturase, group II intron origin
+GSU2472	toxin, PIN family
+GSU2473	antitoxin, AbrB family
+GSU2475	sensor sigma-54-dependent transcriptional regulator
+GSU2476	hypothetical protein
+GSU2477	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU2478	hypothetical protein
+GSU2479	hypothetical protein
+GSU2480	potassium-transporting ATPase subunit A
+GSU2481	potassium-transporting ATPase, B subunit
+GSU2482	potassium-transporting ATPase subunit C
+GSU2483	osmosensitive potassium channel sensor histidine kinase KdpD, KdpD and USP_OKCHK domain-containing
+GSU2484	winged-helix transcriptional response regulator KdpE
+GSU2485	Kup system potassium transporter
+GSU2486	hypothetical protein
+GSU2487	amino acid kinase
+GSU2488	hypothetical protein
+GSU2489	magnesium-dependent deoxyribonuclease
+GSU2490	major facilitator superfamily membrane protein
+GSU2491	major facilitator superfamily membrane protein
+GSU2492	sensor histidine kinase, Cache_1 and HAMP domain-containing
+GSU2493	NHL repeat domain-containing protein
+GSU2494	cytochrome c
+GSU2495	cytochrome c
+GSU2496	hypothetical protein
+GSU2497	lipoprotein
+GSU2498	lipoprotein
+GSU2499	hypothetical protein
+GSU3586	YVTN family beta-propeller domain-containing protein
+GSU2501	cytochrome c
+GSU2502	spermine/spermidine synthase-like protein
+GSU2503	cytochrome c
+GSU2504	cytochrome c
+GSU2505	hypothetical protein
+GSU3587	hypothetical protein
+GSU2506	sigma-54-dependent sensor transcriptional response regulator, N-terminal region
+GSU3632	sigma-54-dependent sensor transcriptional response regulator, C-terminal region
+GSU2507	sensor histidine kinase, Cache_1 and HAMP domain-containing
+GSU2508	hypothetical protein, partial
+GSU2509	undecaprenyl-phosphate glycosyltransferase
+GSU2510	SAM-dependent methyltransferase
+GSU2511	sensor diguanylate cyclase/phosphodiesterase, CHASE4 and PAS domain-containing
+GSU2512	hypothetical protein
+GSU2513	lipoprotein cytochrome c, 1 heme-binding site
+GSU2515	cytochrome c, 1 heme-binding site
+GSU2516	hypothetical protein
+GSU2517	iron-sulfur cluster-binding oxidoreductase
+GSU2518	hypothetical protein
+GSU2519	(R)-2-hydroxyacyl-CoA dehydratase YjiM
+GSU2520	(R)-2-hydroxyacyl-CoA dehydratase-radicalizing ATPase YjiL
+GSU2521	selenium metabolism protein YedF
+GSU2523	LysR family transcriptional regulator
+GSU2524	sigma-54-dependent transcriptional response regulator
+GSU2525	NADPH oxidoreductase
+GSU2526	hypothetical protein
+GSU2527	nitrite/sulfite reductase domain-containing protein
+GSU2528	FecR domain-containing protein
+GSU2529	elongation factor G
+GSU2530	ribosome small subunit biogenesis GTPase RsgA
+GSU2531	sensor histidine kinase, HAMP, PAS and PAS domain-containing
+GSU2532	periplasmic solute-binding protein
+GSU2533	hypothetical protein
+GSU2534	response receiver sensor diguanylate cyclase, PAS domain-containing
+GSU2535	response receiver
+GSU2536	dienelactone hydrolase family protein
+GSU2537	arginine decarboxylase
+GSU2538	carboxynorspermidine/carboxyspermidine decarboxylase
+GSU2539	carboxynorspermidine/carboxyspermidine dehydrogenase
+GSU2540	helix-turn-helix transcriptional regulator PuuR
+GSU2541	Delta-1-pyrroline-5-carboxylate reductase
+GSU2542	hypothetical protein
+GSU2543	polysaccharide deacetylase domain-containing protein
+GSU2544	pyridoxal-5'-phosphate-dependent enzyme, class III
+GSU2545	Maf-like protein
+GSU2546	hypothetical protein
+GSU2547	tRNA (uracil-5-)-methyltransferase Gid
+GSU2548	hypothetical protein
+GSU2549	DNA topoisomerase I
+GSU2550	DNA protection single-strand-binding protein DprA
+GSU2551	LysM domain-containing protein
+GSU2552	lipoprotein
+GSU2553	undecaprenyl-phosphate glycosyltransferase, DPM1-like family
+GSU2554	LAB_N domain-containing protein
+GSU2555	glycosyltransferase
+GSU2556	U32 family peptidase
+GSU2557	undecaprenyl-diphospho-4-formamido-4-deoxy-L- arabinose deformylase
+GSU2558	hypothetical protein
+GSU3588	hypothetical protein
+GSU2559	pppGpp 5'-phosphohydrolase and exopolyphosphatase, HD domain-containing
+GSU2560	CHAD domain-containing protein
+GSU2561	hypothetical protein
+GSU2562	protein phosphohistidine phosphatase SixA
+GSU2563	hypothetical protein
+GSU2564	hypothetical protein
+GSU2565	sensor histidine kinase
+GSU2567	sensor histidine kinase, HAMP domain-containing
+GSU2568	tRNA (2-methylthio-N6-threonylcarbamyl-A37) methylthiotransferase
+GSU2569	tRNA-specific 2-thiouridylase MnmA
+GSU2570	nitrogen fixation iron-sulfur cluster assembly cysteine desulfurase NifS
+GSU2571	helix-turn-helix iron-sulfur cluster-binding transcriptional regulator IscR
+GSU2572	serine O-acetyltransferase
+GSU2573	hypothetical protein
+GSU2574	response receiver-modulated cyclic diguanylate phosphodiesterase
+GSU2575	sensor histidine kinase response regulator, Hpt domain-containing
+GSU2576	metal-dependent phosphohydrolase, HDOD domain-containing
+GSU2577	hypothetical protein
+GSU2578	scaffold protein CheW associated with MCPs of classes 40H and 40+24H
+GSU2579	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU2580	hypothetical protein
+GSU2581	sigma-54-dependent transcriptional response regulator
+GSU3589	hypothetical protein
+GSU3590	hypothetical protein
+GSU2583	amidohydrolase
+GSU2584	lipoprotein
+GSU2585	hypothetical protein
+GSU2586	hypothetical protein
+GSU2587	MarR family winged helix-turn-helix transcriptional regulator
+GSU2588	dihydrolipoamide dehydrogenase
+GSU3592	hypothetical protein
+GSU3593	hypothetical protein
+GSU2590	hypothetical protein
+GSU2591	transposase of ISGsu5
+GSU2592	hypothetical protein
+GSU2593	transposase of ISGsu6, IS21 family
+GSU2594	transposase/IS protein
+GSU3594	hypothetical protein
+GSU3595	hypothetical protein
+GSU3596	hypothetical protein
+GSU2596	lipoprotein
+GSU2597	transposase of ISGsu2, IS5 family
+GSU3597	hypothetical protein
+GSU3598	hypothetical protein
+GSU2599	transposase of ISGsu4
+GSU3600	hypothetical protein
+GSU3601	hypothetical protein
+GSU2601	TPR domain/SEC-C motif domain-containing protein
+GSU2602	integration host factor subunit beta
+GSU2603	30S ribosomal protein S1
+GSU2604	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
+GSU2605	cytidylate kinase
+GSU2606	3-phosphoshikimate 1-carboxyvinyltransferase
+GSU2607	prephenate dehydrogenase
+GSU2608	chorismate mutase and prephenate dehydratase
+GSU2609	PilB/PulE/GspE family ATPase
+GSU2610	LysM domain-containing protein
+GSU2611	hypothetical protein
+GSU3602	hypothetical protein
+GSU2612	rubrerythrin
+GSU2613	iron/zinc/nickel/cobalt/cadmium efflux protein
+GSU2614	single-stranded DNA-specific exonuclease RecJ
+GSU2615	hypothetical protein
+GSU2616	preprotein translocase subunit SecF
+GSU2617	preprotein translocase subunit SecD
+GSU2618	preprotein translocase subunit YajC
+GSU2619	queuine tRNA-ribosyltransferase
+GSU2620	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+GSU2621	cell division protein, SpoIID family
+GSU2622	sensor cyclic diguanylate phosphodiesterase, HAMP and GAF domain-containing heme-binding site
+GSU2623	peptide ABC transporter ATP-binding protein
+GSU2624	peptide ABC transporter ATP-binding protein
+GSU2625	ArsR family transcriptional regulator
+GSU2626	SAM-dependent methyltransferase, PUA domain-containing
+GSU2627	malonyl-CoA O-methyltransferase
+GSU2628	O-methylpimelyl-(acyl carrier protein) methylesterase
+GSU2629	8-amino-7-oxononanoate synthase
+GSU2630	metallophosphoesterase
+GSU2631	hypothetical protein
+GSU2632	diguanylate cyclase
+GSU2633	lipoprotein
+GSU2634	hypothetical protein
+GSU2635	hemerythrin family protein
+GSU2636	alpha-amylase family protein
+GSU2637	NADPH:quinone oxidoreductase family protein PIG3
+GSU2638	hypothetical protein
+GSU2639	hypothetical protein
+GSU2640	hypothetical protein
+GSU2641	PATAN domain GTPase-activating protein
+GSU2642	lipoprotein cytochrome c
+GSU2643	lipoprotein cytochrome c
+GSU2644	hypothetical protein
+GSU2645	cytochrome c
+GSU2646	hypothetical protein
+GSU2647	NAD-dependent nucleoside diphosphate-sugar epimerase/dehydratase
+GSU2648	hypothetical protein
+GSU3603	hypothetical protein
+GSU2649	amino acid ABC transporter substrate-binding protein
+GSU2650	amino acid ABC transporter membrane protein
+GSU2651	amino acid ABC transporter ATP-binding protein
+GSU2652	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU2653	MatE-like domain efflux pump
+GSU2654	branched-chain 2-oxoacid dehydrogenase complex, E1 protein subunit alpha
+GSU2655	branched-chain 2-oxoacid dehydrogenase complex, E1 protein subunit beta
+GSU2656	branched-chain alpha-keto acid dehydrogenase E2 subunit
+GSU2657	multicopper oxidase, manganese oxidase family
+GSU2659	hypothetical protein
+GSU2660	iron-sulfur cluster-binding oxidoreductase
+GSU2661	hypothetical protein
+GSU2662	hypothetical protein
+GSU2663	hypothetical protein
+GSU2664	RND family efflux pump inner and outer membrane proteins
+GSU2665	RND family efflux pump membrane fusion lipoprotein
+GSU2666	TetR family transcriptional regulator
+GSU2667	sensor histidine kinase, PAS domain-containing
+GSU2668	hypothetical protein
+GSU2669	sensor histidine kinase
+GSU2670	LuxR family transcriptional regulator
+GSU2671	hypothetical protein
+GSU2672	lipoprotein
+GSU2673	hypothetical protein
+GSU2674	hypothetical protein
+GSU2675	C1 family peptidase domain-containing protein
+GSU2676	hypothetical protein
+GSU2677	hypothetical protein
+GSU2678	ATP-independent chaperone
+GSU2679	hypothetical protein
+GSU2680	hypothetical protein
+GSU2681	iron-sulfur cluster-binding oxidoreductase
+GSU2682	hypothetical protein
+GSU2683	2-dehydropantoate 2-reductase
+GSU2684	hypothetical protein
+GSU2685	membrane protein YhhJ
+GSU2686	ribosome-associated ATPase and membrane protein RbbA
+GSU2687	RND family efflux pump membrane fusion protein
+GSU2688	hypothetical protein
+GSU2689	hypothetical protein
+GSU2690	VacJ family lipoprotein
+GSU2691	hypothetical protein
+GSU2692	periplasmic solute-binding protein
+GSU2693	response regulator
+GSU3604	hypothetical protein
+GSU2695	RND family efflux pump outer membrane protein
+GSU2696	RND family efflux pump inner membrane protein
+GSU2697	RND family efflux pump membrane fusion lipoprotein
+GSU2698	TetR family transcriptional regulator
+GSU2699	molybdopterin synthase, large subunit
+GSU2700	tungstate ABC transporter periplasmic tungstate-binding protein
+GSU2701	tungstate ABC transporter membrane protein
+GSU2702	tungstate ABC transporter ATP-binding protein
+GSU2703	molybdopterin--molybdenum ligase
+GSU2704	pyranopterin monophosphate cyclase
+GSU2705	molybdopterin adenylyltransferase MoaB
+GSU2706	phosphate acetyltransferase
+GSU2707	acetate kinase A/propionate kinase 2
+GSU2708	ferredoxin
+GSU2710	hypothetical protein
+GSU2713	hypothetical protein
+GSU2714	metal-dependent hydrolase
+GSU2715	fibronectin type III domain-containing protein
+GSU2716	sugar fermentation stimulation protein
+GSU2717	bidirectional NAD-reducing hydrogenase, maturation protease
+GSU2718	bidirectional NAD-reducing hydrogenase, large subunit
+GSU2719	bidirectional NAD-reducing hydrogenase, small subunit
+GSU2720	bidirectional hydrogenase complex protein HoxU
+GSU2721	bidirectional NAD-reducing hydrogenase, diaphorase subunit
+GSU2722	bidirectional hydrogenase complex protein HoxE
+GSU2723	TMAO/DMSO reductase
+GSU2724	cytochrome c
+GSU2725	lipoprotein cytochrome c
+GSU2726	hypothetical protein
+GSU2727	hypothetical protein
+GSU2728	hypothetical protein
+GSU2730	hypothetical protein
+GSU2731	lipoprotein cytochrome c
+GSU2732	cytochrome c
+GSU2733	hypothetical protein
+GSU2735	TetR family transcriptional regulator
+GSU2737	lipoprotein cytochrome c
+GSU2738	cytochrome c
+GSU2739	hypothetical protein
+GSU2741	TetR family transcriptional regulator
+GSU2742	hypothetical protein
+GSU2743	cytochrome c, 1 heme-binding site
+GSU2744	major facilitator superfamily membrane protein
+GSU2745	AAA ATPase
+GSU2746	hypothetical protein
+GSU2747	hypothetical protein
+GSU2748	CxxC_CxxC_SSSS superfamily protein
+GSU2749	NOL1/NOP2/Sun (tRNA and rRNA cytosine-C5-methyltransferase) family protein
+GSU2750	hypothetical protein
+GSU2751	anaerobic C4-dicarboxylate transporter
+GSU2753	sigma-54-dependent transcriptional response regulator
+GSU2755	periplasmic substrate-binding histidine kinase, partial
+GSU3633	integrase
+GSU2756	hypothetical protein, partial
+GSU3605	protein glutamate methylesterase CheB associated with MCPs of classes 40H and 40+24H, response receiver domain-containing
+GSU3606	response receiver CheY associated with MCPs of classes 40H and 40+24H
+GSU2758	excinuclease ABC family protein
+GSU2759	potassium/proton antiporter
+GSU2760	potassium/proton antiporter ancillary protein
+GSU2761	glycerol-3-phosphate dehydrogenase
+GSU2762	glycerol kinase
+GSU2763	hypothetical protein
+GSU2764	hypothetical protein
+GSU2766	DprA/Smf-like protein
+GSU2767	cytochrome c
+GSU2768	metallophosphoesterase
+GSU2769	metal-dependent hydrolase
+GSU2770	lipoprotein
+GSU2771	transposase, Y1_Tnp domain-containing
+GSU2772	transposase of ISGsu3, IS5 family
+GSU2773	hypothetical protein
+GSU2774	hypothetical protein
+GSU2775	hypothetical protein
+GSU2776	hypothetical protein
+GSU2777	arginine efflux transporter ArgO
+GSU2778	hypothetical protein
+GSU2779	MerR family transcriptional regulator
+GSU2780	hypothetical protein
+GSU2781	RND family efflux pump membrane fusion protein
+GSU2782	RND family efflux pump inner membrane protein
+GSU2783	metal-dependent phosphohydrolase, HDc domain-containing
+GSU2784	hypothetical protein
+GSU2785	hypothetical protein
+GSU2786	cysteine desulfurase
+GSU2787	LysR family transcriptional regulator
+GSU2788	OsmC family protein
+GSU2789	sensor histidine kinase, PAS, PAS and PAS domain-containing
+GSU2790	hypothetical protein
+GSU2791	hypothetical protein
+GSU2792	SAM-dependent methyltransferase
+GSU2793	hypothetical protein
+GSU2794	large-conductance mechanosensitive channel
+GSU2795	electron transfer flavoprotein-associated cytochrome b and iron-sulfur cluster-binding oxidoreductase
+GSU2796	electron transfer flavoprotein subunit alpha
+GSU2797	electron transfer flavoprotein subunit beta
+GSU2798	GNAT family acetyltransferase
+GSU2799	nitrogenase molybdenum-iron cofactor biosynthesis radical SAM domain iron-sulfur cluster-binding oxidoreductase
+GSU2800	ADP-ribosyl-(nitrogenase)-activating glycohydrolase
+GSU2801	cytochrome c
+GSU2802	NAD(+)--nitrogenase ADP-D-ribosyltransferase
+GSU2803	nitrogenase molybdenum-iron cofactor biosynthesis protein NifB
+GSU2804	nitrogenase-associated ferredoxin
+GSU2805	nitrogenase molybdenum-iron cofactor biosynthesis protein NifX
+GSU2806	bifunctional nitrogenase molybdenum-cofactor biosynthesis protein NifE/NifN
+GSU2807	hypothetical protein
+GSU2808	lipoprotein cytochrome c
+GSU2809	Fur family transcriptional regulator
+GSU2811	cytochrome c
+GSU2812	glutaredoxin family protein
+GSU2813	cytochrome c peroxidase
+GSU2814	rubrerythrin
+GSU2815	sensor histidine kinase, PAS, PAS, PAS and PAS domain-containing
+GSU2816	sensor histidine kinase response regulator
+GSU2817	LysR family transcriptional regulator
+GSU2818	hypothetical protein
+GSU2819	nitrogenase molybdenum-iron protein subunit beta
+GSU2820	nitrogenase molybdenum-iron protein subunit alpha
+GSU2821	nitrogenase iron protein
+GSU2822	nitrogen fixation transcript antitermination response regulator, ANTAR domain-containing
+GSU2823	RND family efflux pump membrane fusion protein
+GSU3608	ABC transporter ATP-binding protein
+GSU3609	ABC transporter ATP-binding protein
+GSU2825	ABC transporter membrane protein
+GSU2826	ABC transporter membrane protein
+GSU2827	hypothetical protein
+GSU2828	diguanylate cyclase
+GSU2829	deoxyribodipyrimidine photo-lyase
+GSU3610	hypothetical protein
+GSU2830	50S ribosomal protein L17
+GSU2831	DNA-directed RNA polymerase subunit alpha
+GSU2832	30S ribosomal protein S4
+GSU2833	30S ribosomal protein S11
+GSU2834	30S ribosomal protein S13
+GSU3611	50S ribosomal protein L36
+GSU2835	methionine aminopeptidase
+GSU2836	adenylate kinase
+GSU2837	preprotein translocase subunit SecY
+GSU2838	50S ribosomal protein L15
+GSU2839	50S ribosomal protein L30
+GSU2840	30S ribosomal protein S5
+GSU2841	50S ribosomal protein L18
+GSU2842	50S ribosomal protein L6
+GSU2843	30S ribosomal protein S8
+GSU2844	30S ribosomal protein S14
+GSU2845	50S ribosomal protein L5
+GSU2846	50S ribosomal protein L24
+GSU2847	50S ribosomal protein L14
+GSU2848	30S ribosomal protein S17
+GSU2849	50S ribosomal protein L29
+GSU2850	50S ribosomal protein L16
+GSU2851	30S ribosomal protein S3
+GSU2852	50S ribosomal protein L22
+GSU2853	30S ribosomal protein S19
+GSU2854	50S ribosomal protein L2
+GSU2855	50S ribosomal protein L23
+GSU2856	50S ribosomal protein L4
+GSU2857	50S ribosomal protein L3
+GSU2858	30S ribosomal protein S10
+GSU2859	elongation factor Tu
+GSU2860	elongation factor G
+GSU2861	30S ribosomal protein S7
+GSU3612	30S ribosomal protein S12
+GSU2862	DNA-directed RNA polymerase subunit beta'
+GSU2863	DNA-directed RNA polymerase subunit beta
+GSU2864	50S ribosomal protein L7/L12
+GSU2865	50S ribosomal protein L10
+GSU2866	50S ribosomal protein L1
+GSU2867	50S ribosomal protein L11
+GSU2868	transcription elongation factor NusG
+GSU2869	preprotein translocase subunit SecE
+GSU2870	50S ribosomal protein L33
+GSU2871	elongation factor Tu
+GSU2872	electron transfer flavoprotein subunit beta
+GSU2873	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU2874	N-acetyl-gamma-glutamyl-phosphate reductase
+GSU2875	30S ribosomal protein S9
+GSU2876	50S ribosomal protein L13
+GSU2877	tRNA pseudouridine synthase A
+GSU2878	aspartate-semialdehyde dehydrogenase
+GSU2879	3-isopropylmalate dehydrogenase
+GSU2880	ResC/HemX-like cytochrome c biogenesis membrane protein
+GSU3614	ResB-like family cytochrome c biogenesis protein
+GSU2882	cytochrome c
+GSU2883	cytochrome c
+GSU2884	cytochrome c
+GSU2885	NHL repeat domain-containing protein
+GSU3615	cytochrome c
+GSU2887	lipoprotein cytochrome c
+GSU2888	anaerobic magnesium-protoporphyrin IX monomethyl ester oxidative cyclase-like protein
+GSU2889	hypothetical protein
+GSU2890	ResC/HemX-like cytochrome c biogenesis membrane protein
+GSU2891	ResB-like family cytochrome c biogenesis protein
+GSU2892	hypothetical protein
+GSU2893	acyl-protein synthetase
+GSU3616	hypothetical protein
+GSU2894	SEL1 repeat-containing protein
+GSU2895	hypothetical protein
+GSU2896	ankyrin
+GSU2898	lipoprotein cytochrome c
+GSU2899	lipoprotein cytochrome c
+GSU2901	hypothetical protein
+GSU2902	hypothetical protein
+GSU2903	ABC transporter substrate-binding lipoprotein
+GSU2904	iron-sulfur cluster-binding oxidoreductase
+GSU2905	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU3617	hypothetical protein
+GSU2906	cupin
+GSU2907	hypothetical protein
+GSU2908	ResB-like family cytochrome c biogenesis protein
+GSU2909	lipoprotein
+GSU2910	hypothetical protein
+GSU2911	hypothetical protein
+GSU2912	cytochrome c
+GSU2913	cytochrome c
+GSU2914	NHL repeat domain-containing protein
+GSU2915	sigma-54-dependent transcriptional response regulator
+GSU2916	sensor histidine kinase, HAMP domain-containing heme-binding site
+GSU2917	type II secretion system pseudopilin TklG
+GSU2918	transketolase, B protein
+GSU2919	transketolase, A protein
+GSU3619	hypothetical protein
+GSU2921	5-methyltetrahydrofolate--homocysteine S-methyltransferase, cobalamin-dependent
+GSU2922	germane superfamily protein
+GSU2923	glutamate racemase
+GSU2924	hypothetical protein
+GSU2925	(R)-2-hydroxyacyl-CoA dehydratase
+GSU2926	(R)-2-hydroxyacyl-CoA dehydratase-radicalizing ATPase
+GSU2927	cytochrome c
+GSU2928	hypothetical protein
+GSU2929	hemerythrin family protein
+GSU2930	lipoprotein cytochrome c
+GSU3620	cytochrome b/b6 complex, membrane protein subunit
+GSU2932	cytochrome b/b6 complex, cytochrome b subunit
+GSU2933	cytochrome b/b6 complex, iron-sulfur cluster-binding subunit
+GSU2934	cytochrome c
+GSU2935	lipoprotein cytochrome c
+GSU2936	hypothetical protein
+GSU2937	cytochrome c
+GSU2938	hypothetical protein
+GSU2939	outer membrane channel protein
+GSU2940	hypothetical protein
+GSU2941	LysR family transcriptional regulator
+GSU2942	methyl-accepting chemotaxis sensory transducer, class 40H
+GSU2943	hypothetical protein
+GSU2944	(R)-2-hydroxyacyl-CoA dehydratase
+GSU2945	(R)-2-hydroxyacyl-CoA dehydratase-radicalizing ATPase
+GSU2946	winged-helix heavy metal transcriptional response regulator
+GSU2947	sensor histidine kinase, HAMP domain-containing
+GSU2948	sulfatase
+GSU2949	PAP2_like_6 family phosphatase
+GSU2950	ABC transporter membrane protein
+GSU2951	ABC transporter ATP-binding protein
+GSU2952	ArsR family transcriptional regulator
+GSU2953	arsenate reductase and protein tyrosine phosphatase
+GSU2954	arsenite efflux pump protein
+GSU2955	hypothetical protein
+GSU2956	redox-active disulfide protein 2
+GSU2957	thioredoxin family protein
+GSU2958	thiol:disulfide interchange protein
+GSU2959	hypothetical protein
+GSU2960	molybdate ABC transporter ATP-binding protein
+GSU2961	molybdate ABC transporter permease
+GSU2962	molybdate ABC transporter substrate-binding protein
+GSU2963	ModD protein
+GSU2964	molybdate transport regulatory protein ModE
+GSU2965	redox-active protein, C_GCAxxG_C_C family
+GSU2967	ferritin-like domain-containing protein
+GSU2968	hypothetical protein
+GSU2969	sensor diguanylate cyclase, PAS domain-containing
+GSU2970	stress-responsive alpha/beta-barrel domain-containing protein
+GSU2971	hypothetical protein
+GSU2973	lipoprotein
+GSU2974	bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+GSU2975	manganese-dependent inorganic pyrophosphatase
+GSU2976	membrane protein DedA
+GSU2977	translaldolase
+GSU2978	hypothetical protein
+GSU2979	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase
+GSU2980	nickel responsive regulator
+GSU2981	periplasmic energy transduction protein
+GSU2982	ligand-gated TonB-dependent outer membrane channel
+GSU2983	hypothetical protein
+GSU2984	divalent manganese/zinc ABC transporter membrane protein
+GSU2985	divalent manganese/zinc ABC transporter ATP-binding protein
+GSU2986	periplasmic divalent manganese/zinc-binding lipoprotein
+GSU2987	Fur family transcriptional regulator
+GSU3621	hypothetical protein
+GSU2988	hypothetical protein
+GSU2989	L-threonine-0-3-phosphate decarboxylase
+GSU2990	adenosylcobinamide-phosphate synthase
+GSU2991	sensor histidine kinase, HAMP domain-containing
+GSU2992	cobalt-precorrin-3 C17-methyltransferase and adenosylcobyric acid synthase
+GSU2993	cobalt-precorrin-5A hydrolase
+GSU2994	cobalt-precorrin-4 C11-methyltransferase
+GSU2995	cobalt-sirohydrochlorin C20-methyltransferase
+GSU2996	cobalt-precorrin-6B C5,C15-methyltransferase and C12-decarboxylase
+GSU2997	cobalt-precorrin-5B C1-methyltransferase
+GSU2998	hypothetical protein
+GSU2999	cobalt-precorrin-8X methylmutase
+GSU3000	sirohydrochlorin cobaltochelatase
+GSU3001	cobalt ABC transporter ATP-binding protein
+GSU3002	cobalt ABC transporter membrane protein CbiQ
+GSU3003	hypothetical protein
+GSU3004	cobalt ABC transporter membrane protein CbiMN
+GSU3005	phosphomethylpyrimidine synthase ThiC
+GSU3006	cobyrinic acid a,c-diamide synthase
+GSU3007	adenosylcobalamin-5'-phosphate phosphatase
+GSU3008	cobalamin-5'-phosphate synthase
+GSU3009	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+GSU3010	adenosylcobinamide kinase and adenosylcobinamide phosphate guanylyltransferase
+GSU3013	GTP-binding protein YsxC
+GSU3014	metal-dependent phosphohydrolase, HDOD domain-containing
+GSU3015	flagellar protein FlaG
+GSU3016	metalloprotease domain-containing protein
+GSU3018	SAM-dependent methyltransferase
+GSU3019	dehydrogenase, E1 protein subunits alpha/beta
+GSU3020	acyltransferase
+GSU3021	dTDP-4-dehydro-6-deoxyglucose aminotransferase
+GSU3022	SAM-dependent methyltransferase
+GSU3023	glycosyltransferase and TPR domain-containing protein
+GSU3024	hypothetical protein
+GSU3025	ADP-heptose--lipopolysaccharide heptosyltransferase
+GSU3026	flagellar protein FlbD
+GSU3027	flagellar basal body stator protein MotA
+GSU3028	flagellar basal body stator protein MotB
+GSU3029	2-acylglycerophosphoethanolamine acyltransferase
+GSU3030	metal-dependent hydrolase superfamily protein
+GSU3031	sigma-54-dependent transcriptional regulator
+GSU3032	hypothetical protein
+GSU3033	PilZ domain-containing protein
+GSU3034	hypothetical protein
+GSU3035	hypothetical protein
+GSU3036	flagellin export facilitator protein FliS
+GSU3037	flagellar filament cap protein FliD
+GSU3038	flagellin
+GSU3040	flagellar assembly protein FliW
+GSU3041	RNA-binding protein CsrA
+GSU3042	flagellar hook-filament junction protein FlgL
+GSU3043	flagellar hook-associated protein FlgK
+GSU3044	flagellar biogenesis chaperone FlgN
+GSU3045	negative regulator of flagellin synthesis FlgM
+GSU3046	flagellar rod-binding protein FlgJ
+GSU3047	flagellar basal body P-ring protein
+GSU3048	flagellar L-ring lipoprotein FlgH
+GSU3050	flagellar basal body P-ring formation protein FlgA
+GSU3051	flagellar basal body rod protein FlgG
+GSU3052	flagellar basal body rod protein FlgF
+GSU3053	RNA polymerase sigma-28 factor for flagellar operon
+GSU3054	flagellar biogenesis ATPase FlhG
+GSU3055	flagellar biogenesis protein FlhF
+GSU3056	flagellar biosynthesis protein FlhA
+GSU3057	dihydropyrimidine dehydrogenase subunit A
+GSU3058	ferredoxin-NADP(+) reductase subunit alpha
+GSU3059	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU3060	TetR family transcriptional regulator
+GSU3061	squalene cyclase
+GSU3062	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU3063	cell division protein FtsZ
+GSU3064	cell division protein FtsA
+GSU3065	cell division protein FtsQ
+GSU3066	D-alanine--D-alanine ligase
+GSU3067	UDP-N-acetylenolpyruvoylglucosamine reductase
+GSU3068	UDP-N-acetylmuramate--L-alanine ligase
+GSU3069	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+GSU3070	cell division protein FtsW
+GSU3071	UDP-N-acetylmuramylalanine--D-glutamate ligase
+GSU3072	phospho-N-acetylmuramoyl-pentapeptide- transferase
+GSU3073	UDP-N-acetylmuramylalanyl-D-glutamyl-2, 6-diaminopimelate--D-alanyl-D-alanine ligase
+GSU3074	UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase
+GSU3075	peptidoglycan transglycosylase and transpeptidase FtsI
+GSU3076	cell division septum formation protein FtsL
+GSU3077	16S rRNA m(4)C1402 methyltransferase
+GSU3078	cell division protein MraZ
+GSU3079	hypothetical protein
+GSU3080	hypothetical protein
+GSU3082	hypothetical protein
+GSU3083	transposase of ISGsu7
+GSU3085	dimetal-binding protein YqfO
+GSU3086	23S rRNA (2-N-methyl-G2445)-methyltransferase
+GSU3087	NAD-dependent protein deacetylase, Sir2 family
+GSU3088	misacylated tRNA(Pro) deacylase, YbaK/ProX family
+GSU3089	RNA polymerase sigma-70 factor RpoD
+GSU3090	DNA primase
+GSU3091	membrane protein implicated in colicin V production
+GSU3092	hypothetical protein
+GSU3093	30S ribosomal protein S21
+GSU3094	phosphoribosyl-ATP pyrophosphatase
+GSU3095	imidazole glycerol phosphate synthase subunit HisF
+GSU3096	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+GSU3097	imidazole glycerol phosphate synthase subunit HisH
+GSU3098	imidazoleglycerol-phosphate dehydratase
+GSU3099	histidinol-phosphate aminotransferase
+GSU3100	bifunctional histidinal dehydrogenase/ histidinol dehydrogenase
+GSU3101	ATP phosphoribosyltransferase catalytic subunit
+GSU3102	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+GSU3103	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+GSU3104	peptide chain release factor 1
+GSU3105	hypothetical protein
+GSU3106	FAD-dependent thymidylate synthase
+GSU3107	50S ribosomal protein L31
+GSU3108	transcription termination factor Rho
+GSU3109	IclR family transcriptional regulator
+GSU3110	hypothetical protein
+GSU3111	hypothetical protein
+GSU3112	FtsK/SpoIIIE domain-containing protein
+GSU3113	metal-dependent hydrolase
+GSU3114	hypothetical protein
+GSU3115	hypothetical protein
+GSU3116	[acyl-]glycerolphosphate acyltransferase
+GSU3117	ssDNA-binding protein
+GSU3118	winged-helix transcriptional response regulator
+GSU3119	sensor histidine kinase, HAMP domain-containing
+GSU3120	CpxP superfamily protein
+GSU3121	EF hand domain-containing protein
+GSU3122	metal-dependent hydrolase
+GSU3123	aldehyde:ferredoxin oxidoreductase domain-containing protein
+GSU3124	iron-sulfur cluster-binding oxidoreductase
+GSU3125	mannitol dehydrogenase
+GSU3126	oxidoreductase, aldo/keto reductase family
+GSU3127	AraC family transcriptional regulator
+GSU3128	hypothetical protein
+GSU3635	hypothetical protein
+GSU3129	sodium-driven efflux pump, MatE and MatE domain-containing
+GSU3130	lipoprotein
+GSU3131	hypothetical protein
+GSU3132	histone-like protein
+GSU3133	peptidoglycan transglycosylase and transpeptidase MrcA
+GSU3134	hypothetical protein
+GSU3135	lipoprotein signal peptidase
+GSU3136	isoleucyl-tRNA ligase
+GSU3137	cytochrome c
+GSU3138	response receiver histidine kinase
+GSU3139	hypothetical protein
+GSU3140	peptidase lipoprotein, M1 superfamily
+GSU3141	hypothetical protein
+GSU3142	3-deoxy-7-phosphoheptulonate synthase
+GSU3143	FKBP-type peptidylprolyl cis-trans isomerase
+GSU3144	SAM-dependent methyltransferase
+GSU3145	molybdopterin sulfurtransferase
+GSU3146	pyranopterin triphosphate synthase
+GSU3147	molybdopterin nucleotidyltransferase and molybdopterin-guanine dinucleotide biosynthesis protein MobB
+GSU3148	sensor histidine kinase, GAF domain-containing
+GSU3150	HPP family protein
+GSU3151	hypothetical protein
+GSU3152	PAS domain-containing protein
+GSU3153	iron-sulfur cluster-binding oxidoreductase
+GSU3154	cytochrome c nitrite and sulfite reductase, catalytic subunit lipoprotein
+GSU3155	cytochrome c nitrite and sulfite reductase, menaquinol-oxidizing subunit
+GSU3156	methyl-accepting chemotaxis sensory transducer, class 30H
+GSU3157	alpha/beta fold family hydrolase
+GSU3158	cysteine synthase B
+GSU3159	NUDIX hydrolase, coenzyme A pyrophosphatase family
+GSU3160	tRNA pseudouridine 65 synthase
+GSU3161	methionine sulfoxide reductase A
+GSU3162	L-allo-threonine aldolase, stereospecific
+GSU3163	glutaredoxin-like protein, selenocysteine-containing, partial
+GSU3165	type VI secretion system inner membrane protein TssL
+GSU3166	type VI secretion system ATPase and inner membrane protein TssM
+GSU3167	type VI secretion system protein
+GSU3168	3-oxoacyl-(acyl carrier protein) synthase
+GSU3169	hypothetical protein
+GSU3170	hypothetical protein
+GSU3171	hypothetical protein
+GSU3172	type VI secretion system needle sheath protein TssB
+GSU3173	type VI secretion system needle sheath protein TssC
+GSU3174	type VI secretion system needle tube protein TssD
+GSU3175	hypothetical protein
+GSU3176	LysM domain-containing protein
+GSU3177	type VI secretion system needle syringe protein TssI
+GSU3180	hypothetical protein
+GSU3181	3-oxoacyl-(acyl carrier protein) synthase
+GSU3182	hypothetical protein
+GSU3183	hypothetical protein
+GSU3184	hypothetical protein
+GSU3185	hypothetical protein
+GSU3186	hypothetical protein
+GSU3187	ferredoxin
+GSU3188	rubredoxin
+GSU3189	hypothetical protein
+GSU3190	twin-arginine translocation pathway protein, TatA/TatE family
+GSU3191	hypothetical protein
+GSU3192	ATP-independent chaperone
+GSU3193	ATP-dependent Lon protease (La)
+GSU3194	thiamin monophosphate kinase
+GSU3195	protein glutamate methyltransferase CheR associated with MCPs of class 44H
+GSU3196	methyl-accepting chemotaxis sensory transducer, class 44H
+GSU3197	scaffold protein CheW associated with MCPs of class 44H
+GSU3198	response receiver CheY associated with MCPs of class 44H
+GSU3199	sensor histidine kinase CheA associated with MCPs of class 44H
+GSU3200	protein phosphoaspartate phosphatase CheC associated with MCPs of class 44H
+GSU3201	protein glutamine deamidase and protein glutamate methylesterase CheD associated with MCPs of class 44H
+GSU3202	outer membrane lipoprotein carrier/sorting protein LolA
+GSU3203	outer membrane lipoprotein carrier/sorting protein LolA
+GSU3204	nucleotide-binding protein
+GSU3205	30S ribosomal protein S12 methylthiotransferase
+GSU3206	TraR/DksA family zinc finger transcriptional regulator
+GSU3207	phosphoglyceromutase
+GSU3208	23S rRNA (3-N-methyl-pseudoU1915)-methyltransferase
+GSU3209	hypothetical protein
+GSU3210	nicotinate/nicotinamide mononucleotide adenylyltransferase
+GSU3211	gamma-glutamyl phosphate reductase
+GSU3212	gamma-glutamyl kinase
+GSU3213	GTPase CgtA
+GSU3214	cytochrome c
+GSU3215	hypothetical protein
+GSU3216	sensor histidine kinase
+GSU3217	sigma-54-dependent transcriptional response regulator
+GSU3218	cytochrome c
+GSU3219	peptidase
+GSU3221	cytochrome c
+GSU3222	NHL repeat domain-containing protein
+GSU3223	cytochrome c
+GSU3224	hypothetical protein
+GSU3225	NHL repeat domain-containing protein
+GSU3226	cytochrome c
+GSU3227	cytochrome c, 1 heme-binding site
+GSU3228	cytochrome c
+GSU3229	LuxR family transcriptional regulator
+GSU3230	sensor histidine kinase, PAS domain-containing
+GSU3232	cytochrome c, 1 heme-binding site
+GSU3233	cytochrome c
+GSU3235	50S ribosomal protein L27
+GSU3236	50S ribosomal protein L21
+GSU3238	ferredoxin, Rieske superfamily
+GSU3239	ribonuclease G
+GSU3240	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU3242	hypothetical protein
+GSU3243	hypothetical protein
+GSU3244	hypothetical protein
+GSU3245	DNA polymerase II
+GSU3246	peroxiredoxin, typical 2-Cys subfamily
+GSU3247	iron-sulfur cluster-binding oxidoreductase
+GSU3248	hypothetical protein
+GSU3250	nucleic acid-independent polyadenylating polymerase
+GSU3251	hypothetical protein
+GSU3252	sensor histidine kinase, GAF domain-containing
+GSU3253	response regulator
+GSU3254	mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase-like protein
+GSU3255	glycoside hydrolase
+GSU3256	UDP-glucose--galactose-1-phosphate uridylyltransferase
+GSU3257	glycogen synthase
+GSU3258	hypothetical protein
+GSU3259	inner membrane cytochrome H
+GSU3260	aspartate/glutamate/phosphoserine/alanine/cystea te aminotransferase
+GSU3261	response regulator
+GSU3262	excinuclease ABC subunit B
+GSU3263	response regulator, PilZ domain-containing
+GSU3264	major facilitator superfamily membrane protein
+GSU3265	sulfite reductase, assimilatory
+GSU3266	ATP-dependent DNA helicase, PcrA/UvrD/Rep family
+GSU3267	hypothetical protein
+GSU3268	ferrous iron transport protein B
+GSU3269	FeoA family protein
+GSU3270	FeoA family protein
+GSU3271	outer membrane channel, OprB family
+GSU3273	hypothetical protein
+GSU3274	cytochrome c, 1 heme-binding site
+GSU3275	hypothetical protein
+GSU3276	LysM domain-containing protein
+GSU3277	LysM domain-containing protein
+GSU3278	pentapeptide repeat-containing protein
+GSU3279	excinuclease ABC subunit C
+GSU3280	thioredoxin-like protein disulfide reductase
+GSU3281	thioredoxin
+GSU3282	precorrin-2 dehydrogenase and sirohydrochlorin ferrochelatase
+GSU3283	ResC/HemX-like cytochrome c biogenesis membrane protein
+GSU3284	glutamyl-tRNA reductase
+GSU3285	porphobilinogen deaminase
+GSU3286	uroporphyrinogen III C2,C7-methyltransferase and uroporphyrinogen III synthase
+GSU3287	magnesium-dependent deoxyribonuclease, TatD family
+GSU3288	YgdL family protein
+GSU3289	ferritin-like domain-containing protein
+GSU3290	zinc ribbon domain-containing protein
+GSU3291	membrane-bound proton-translocating pyrophosphatase
+GSU3292	Fur family transcriptional regulator
+GSU3624	rubredoxin
+GSU3293	ferritin-like domain-containing protein
+GSU3294	rubredoxin:oxygen/nitric oxide oxidoreductase
+GSU3295	hypothetical protein
+GSU3296	D-lactate/glycolate dehydrogenase, FAD-binding protein
+GSU3297	D-lactate/glycolate dehydrogenase, iron-sulfur cluster-binding protein
+GSU3298	transcriptional regulator
+GSU3299	biotin-dependent acyl-CoA carboxylase, carboxyltransferase subunit
+GSU3300	biotin-dependent acyl-CoA carboxylase, biotin carboxylase subunit
+GSU3301	thymidylate kinase
+GSU3302	(R)-methylmalonyl-CoA mutase, isobutyryl-CoA mutase-like catalytic subunit
+GSU3303	methylmalonyl-CoA epimerase
+GSU3304	outer membrane channel OmpJ
+GSU3305	hypothetical protein
+GSU3306	hypothetical protein
+GSU3307	ATP phosphoribosyltransferase regulatory subunit
+GSU3308	adenylosuccinate synthetase
+GSU3309	ATPase
+GSU3310	hypothetical protein
+GSU3311	heme-binding sensor globin domain-containing protein
+GSU3312	ferrochelatase
+GSU3313	thiolase
+GSU3314	lipoprotein
+GSU3315	major facilitator superfamily membrane protein
+GSU3316	ResC/HemX-like cytochrome c biogenesis membrane protein
+GSU3625	ResB-like family cytochrome c biogenesis protein
+GSU3317	hypothetical protein
+GSU3318	hypothetical protein
+GSU3319	cytosolic peptidylprolyl cis-trans isomerase, cyclophilin A-like protein
+GSU3320	SAM-dependent methyltransferase
+GSU3321	phosphoglucomutase/phosphomannomutase family protein
+GSU3322	magnesium transport protein CorA
+GSU3323	polyphosphate kinase
+GSU3324	LexA-related transcriptional regulator
+GSU3325	excinuclease ABC subunit A
+GSU3326	hypothetical protein
+GSU3327	hypothetical protein
+GSU3328	hypothetical protein
+GSU3329	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU3330	NADH-dependent flavin oxidoreductase, Oye family
+GSU3331	pyruvate kinase
+GSU3332	lipoprotein cytochrome c
+GSU3333	3-deoxy-7-phosphoheptulonate synthase
+GSU3334	lipoprotein cytochrome c, 1 heme-binding site
+GSU3335	hypothetical protein
+GSU3336	hypothetical protein
+GSU3337	lipoprotein
+GSU3339	co-chaperonin GroES
+GSU3340	chaperonin GroEL
+GSU3341	protein serine/threonine kinase PrkA
+GSU3342	hypothetical protein
+GSU3343	SpoVR-like family protein
+GSU3344	AAA ATPase
+GSU3345	hypothetical protein
+GSU3346	Kup system potassium transporter
+GSU3347	U32 family peptidase
+GSU3348	Hsp33-like chaperonin
+GSU3349	cyclase/hydrolase
+GSU3350	sensor histidine kinase response receiver diguanylate cyclase
+GSU3351	hypothetical protein
+GSU3626	hypothetical protein
+GSU3353	RNA pseudouridine synthase, RluA family
+GSU3354	ADP-ribose pyrophosphatase
+GSU3356	diguanylate cyclase, HAMP domain-containing
+GSU3357	sensor histidine kinase, PAS domain-containing
+GSU3358	hypothetical protein
+GSU3359	hypothetical protein
+GSU3360	zinc-dependent peptidase
+GSU3361	transglutaminase domain-containing protein
+GSU3362	hypothetical protein
+GSU3363	iron-sulfur cluster-binding sigma-54-dependent transcriptional regulator
+GSU3364	hydrogen-dependent growth transcriptional repressor
+GSU3365	cysteinyl-tRNA ligase
+GSU3366	glutaminyl-tRNA ligase
+GSU3367	2-C-methyl-D-erythritol 2,4-cyclo diphosphate synthase
+GSU3368	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+GSU3369	selenocysteine synthase
+GSU3370	GntR family transcriptional regulator
+GSU3371	TIM barrel protein, AP endonuclease family 2/xylose isomerase-like family
+GSU3372	cardiolipin synthase
+GSU3373	16S rRNA (5-methyl-C967)-methyltransferase
+GSU3374	ribulose-phosphate 3-epimerase
+GSU3375	coenzyme A pyrophosphatase
+GSU3376	response receiver-modulated diguanylate cyclase
+GSU3377	endonuclease III-like protein
+GSU3378	glutamate--ammonia ligase adenylyltransferase
+GSU3379	S-methyl-5-thio-alpha-D-ribose-1-phosphate isomerase
+GSU3380	aspartyl/glutamyl-tRNA amidotransferase subunit B
+GSU3381	aspartyl/glutamyl-tRNA amidotransferase subunit A
+GSU3382	hypothetical protein
+GSU3383	aspartyl/glutamyl-tRNA amidotransferase subunit C
+GSU3384	phospholipase D
+GSU3385	phosphoenolpyruvate carboxykinase
+GSU3386	lipoprotein
+GSU3387	AraC/XylS family transcriptional regulator
+GSU3388	hypothetical protein
+GSU3389	FecR domain-containing protein
+GSU3390	hypothetical protein
+GSU3391	branched-chain amino acid ABC transporter ATP-binding protein
+GSU3392	branched-chain amino acid ABC transporter ATP-binding protein
+GSU3393	branched-chain amino acid ABC transporter membrane protein
+GSU3394	branched-chain amino acid ABC transporter membrane protein
+GSU3395	proline dehydrogenase and Delta-1-pyrroline-5-carboxylate dehydrogenase
+GSU3396	GntR family transcriptional regulator
+GSU3397	hypothetical protein
+GSU3398	RND family efflux pump outer membrane protein
+GSU3399	RND family efflux pump membrane fusion lipoprotein
+GSU3400	RND family heavy metal efflux pump inner membrane protein
+GSU3401	branched-chain amino acid ABC transporter substrate-binding lipoprotein
+GSU3402	hypothetical protein
+GSU3403	outer membrane channel OmpJ-like protein
+GSU3404	amino acid ABC transporter ATP-binding protein
+GSU3405	amino acid ABC transporter membrane protein
+GSU3406	polar amino acid/opine ABC transportersubstrate-binding protein
+GSU3407	hypothetical protein
+GSU3408	L-threonine aldolase
+GSU3409	hypothetical protein
+GSU3410	hypothetical protein
+GSU3411	ATP-dependent DNA helicase PcrA
+GSU3413	lipoprotein
+GSU3414	hypothetical protein
+GSU3415	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU3416	[lipopolysaccharide]-lipid A 3-O-deacylase outer membrane protein
+GSU3417	dioxygenase
+GSU3418	sigma-54-dependent transcriptional response regulator
+GSU3419	sensor histidine kinase
+GSU3420	lipid A biosynthesis acyltransferase
+GSU3421	CarD family transcriptional regulator
+GSU3422	DTW domain-containing protein
+GSU3423	transketolase
+GSU3424	dihydrolipoamide dehydrogenase
+GSU3425	hypothetical protein
+GSU3426	hypothetical protein
+GSU3427	hypothetical protein
+GSU3428	cytochrome c, 1 heme-binding site
+GSU3429	NADH dehydrogenase I subunit N
+GSU3430	NADH dehydrogenase I subunit M
+GSU3431	NADH dehydrogenase I subunit L
+GSU3432	NADH dehydrogenase I subunit K
+GSU3433	NADH dehydrogenase I subunit J
+GSU3434	NADH dehydrogenase subunit I
+GSU3435	ankyrin
+GSU3436	NADH:ubiquinone oxidoreductase subunit H
+GSU3437	sensor histidine kinase, PAS and GAF domain-containing
+GSU3438	phosphonoacetate hydrolase
+GSU3439	NADH dehydrogenase subunit G
+GSU3440	hypothetical protein
+GSU3441	NADH dehydrogenase I subunit F
+GSU3442	hypothetical protein
+GSU3443	NADH dehydrogenase subunit E
+GSU3444	trifunctional NADH dehydrogenase I subunit B/C/D
+GSU3445	NADH dehydrogenase I subunit A
+GSU3447	peroxiredoxin, 1-Cys subfamily
+GSU3448	acetate kinase-like protein
+GSU3449	ferredoxin
+GSU3450	ferredoxin/NAD(P)H-dependent glutamate synthase, large subunit
+GSU3451	hydrolase
+GSU3452	hypothetical protein
+GSU3453	uroporphyrinogen decarboxylase
+GSU3454	radical SAM domain-containing iron-sulfur cluster-binding oxidoreductase
+GSU3455	ABC transporter membrane protein, ABC-2 family
+GSU3456	polypeptide formylmethionine deformylase
+GSU3457	amino acid-binding ACT domain-containing regulatory protein
+GSU3459	hypothetical protein
+GSU3460	AmsE-like family glycosyltransferase
+GSU3461	acyl-CoA thioesterase
+GSU3462	lipoprotein
+GSU3463	16S rRNA methyltransferase GidB
+GSU3464	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+GSU3465	tRNA modification GTPase TrmE
+GSU3466	preprotein translocase subunit YidC
+GSU3467	hypothetical protein
+GSU3468	ribonuclease P, protein component
+GSU3469	50S ribosomal protein L34

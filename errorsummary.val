@@ -1,0 +1,7 @@
+    24 ERROR:   SEQ_FEAT.AbuttingIntervals
+    13 WARNING: SEQ_DESCR.InconsistentProteinTitle
+    24 WARNING: SEQ_FEAT.DuplicateFeat
+     1 WARNING: SEQ_FEAT.FeatContentDup
+  3423 WARNING: SEQ_FEAT.IllegalDbXref
+   757 WARNING: SEQ_FEAT.UndesiredProteinName
+     1 WARNING: SEQ_INST.CompleteCircleProblem

@@ -1,4 +1,4 @@
->GSUL_MN1 [organism=Geobacter sulfurreducens] [strain=MN1] [db_xref=taxon:35554] [mol_type=genomic DNA] [topology=circular] [gcode=11]
+>GSUL_MN1.4 [organism=Geobacter sulfurreducens] [strain=MN1] [db_xref=taxon:35554] [mol_type=genomic DNA] [topology=circular] [gcode=11]
 GCTTCGCGTTTCCCGAGAAGGTCTGGTTTATGGAAGAAGTTTGGCTCCAGGCACAATCCA
 ATCTCGCTAAGGTTCTCACACATCAGACCTTTAACACCTGGATCGAACCGATCAAGTATC
 TCGGATCCAAGAAGAATGTGCTGCTGCTGGAAGCCCCGAACCAGTTCGTCAGGGACCGGG
